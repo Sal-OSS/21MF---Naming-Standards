@@ -1,2 +1,3 @@
 asset_description,asset_abbreviation,dbo_entity_type,ifc_class,ifc_type
-
+fan coil unit,fcu,hvac,hvac,hvac
+actuator,act,mc,mc,mc
