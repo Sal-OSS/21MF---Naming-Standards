@@ -1,0 +1,1049 @@
+﻿Discipline,Name,Abbreviation,ifc_class,ifc_type
+Blinds,Window Operator,WDO,IfcActuator,ELECTRICACTUATOR
+Electrical,Variable Air Volume Control Station,VAV,IfcAirTerminalBox,NOTDEFINED
+Mechanical,Constant Air Volume Box,CAV,IfcAirTerminalBox,CONSTANTFLOW
+Mechanical,Dual Duct VAV Terminal Unit,VAV,IfcAirTerminalBox,NOTDEFINED
+Mechanical,Fan Powered VAV Terminal Unit,VAV,IfcAirTerminalBox,NOTDEFINED
+Mechanical,VAV (Cooling Only),VAV,IfcAirTerminalBox,NOTDEFINED
+Mechanical,VAV (Reheat),VAV,IfcAirTerminalBox,NOTDEFINED
+Mechanical,Variable Volume and Temperature  box,VVT,IfcAirTerminalBox,NOTDEFINED
+Mechanical,Heat Recovery Unit,HRU,IfcAirToAirHeatRecovery,NOTDEFINED
+Fire Alarm,Beacons,BCN,ifcAlarm,LIGHT
+Fire Safety,Emergency Break Glass Units,BGU,IfcAlarm,BREAKGLASSBUTTON
+Fire Safety,Break Glass Unit,BGU,IfcAlarm,BREAKGLASSBUTTON
+Electrical,Switchboards,SB,IfcBoiler,STEAM
+Mechanical,Condensing Gas Fired Boilers,BLR,ifcBoiler,NOTDEFINED
+Mechanical,Gas Fired Boilers,BLR,ifcBoiler,NOTDEFINED
+Mechanical,Oil Fired Boilers,BLR,ifcBoiler,NOTDEFINED
+Mechanical,Solid Fuel Boilers,BLR,ifcBoiler,NOTDEFINED
+Mechanical,Run-Around Coils,RHC,IfcCoil,NOTDEFINED
+Electrical,High Voltage Earthing Switches,ETS,ifcCommunicationsAppliance,NETWORKBRIDGE
+IT,Data Processing Unit,DPU,IfcCommunicationsAppliance,NOTDEFINED
+IT,Human Machine Interface,HMI,IfcCommunicationsAppliance,NOTDEFINED
+IT,Intermediate Distribution Frame,IDF,IfcCommunicationsAppliance,NOTDEFINED
+AV,AV Connection Plate,ACP,ifcCompressor,NOTDEFINED
+Mechanical,Electric Driven Refrigerant Compressors,CMP,IfcCompressor,NOTDEFINED
+Mechanical,Gas Engine Driven Refrigerant Compressors,CMP,IfcCompressor,NOTDEFINED
+Mechanical,Dry Air Coolers,DAC,IfcCondenser,AIRCOOLED
+Plumbing / Public Health,Alkalinity Dosing Units,CDU,IfcCondenser,NOTDEFINED
+Plumbing / Public Health,Chemical Dosing Pots,CDU,IfcCondenser,NOTDEFINED
+Plumbing / Public Health,Coagulant Dosing Units,CDU,IfcCondenser,NOTDEFINED
+Plumbing / Public Health,Disinfectant  Dosing Units,CDU,IfcCondenser,NOTDEFINED
+Plumbing / Public Health,Ph Control Dosing Units,CDU,IfcCondenser,NOTDEFINED
+BMS,Direct Digital Control,DDC,IfcController,PROGRAMMABLE
+Electrical,Programmable Logic Controller,PLC,IfcController,PROGRAMMABLE
+Mechanical,Active Climatic Beams,CHB,IfcCooledBeam,NOTDEFINED
+Mechanical,Multi-Service Climatic Beams,CHB,IfcCooledBeam,NOTDEFINED
+Mechanical,Passive Climatic Beams,CHB,IfcCooledBeam,NOTDEFINED
+Fire Safety,Motorised Smoke Damper,MSD,IfcDamper,SMOKEDAMPER
+Mechanical,Damper,DMP,IfcDamper,NOTDEFINED
+Mechanical,Volume Control Dampers,VCD,IfcDamper,BALANCINGDAMPER
+Architectural,Fire Door,FDR,IfcDoor,NOTDEFINED
+AV,Keypad Controller,KCO,IfcElectricAppliance,NOTDEFINED
+Fixtures & Fittings,Dispenser,DISP,IfcElectricAppliance,NOTDEFINED
+Fixtures & Fittings,Fryer,FRY,IfcElectricAppliance,ELECTRICCOOKER
+Fixtures & Fittings,Freezer,FRZ,IfcElectricAppliance,FREEZER
+Fixtures & Fittings,Oven,OVN,IfcElectricAppliance,ELECTRICCOOKER
+Fixtures & Fittings,Refrigerator,REF,IfcElectricAppliance,REFRIGERATOR
+Fixtures & Fittings,Steamer,STE,IfcElectricAppliance,NOTDEFINED
+Fixtures & Fittings,Warm Drawer,WDR,IfcElectricAppliance,ELECTRICCOOKER
+Mechanical,Hot Water Non-Storage Calorifiers,IWH,IfcElectricAppliance,NOTDEFINED
+Mechanical,Steam Non-Storage Calorifiers,IWH,IfcElectricAppliance,NOTDEFINED
+Mechanical,Electric Instantaneous Shower Units,IWH,IfcElectricAppliance,NOTDEFINED
+Mechanical,Electric Instantaneous Water Heaters,IWH,IfcElectricAppliance,NOTDEFINED
+Mechanical,Gas-Fired Instantaneous Water Heaters,IWH,IfcElectricAppliance,NOTDEFINED
+Electrical,Distribution Boards And Consumer Units,DB,IfcElectricDistributionBoard, DISTRIBUTIONBOARD
+Electrical,Mains Switchboard,MSB,IfcElectricDistributionBoard,SWITCHBOARD
+Electrical,Power Distribution Unit,PDU,IfcElectricDistributionBoard,NOTDEFINED
+Electrical,Uninterruptible Power Supply (UPS) Units,UPS,IfcElectricFlowStorageDevice,UPS
+Electrical,Generator Sets,GEN,IfcElectricGenerator,ENGINEGENERATOR
+Mechanical,Split Coil Room Air Conditioning Units,EVP,IfcEvaporator,NOTDEFINED
+Mechanical,Cooling Tower Fan,CTF,IfcFan,NOTDEFINED
+Mechanical,Kitchen Exhaust Fan,KEF,IfcFan,NOTDEFINED
+Mechanical,Relief Fan,RLF,IfcFan,NOTDEFINED
+Mechanical,Smoke Exhaust Fan,SEF,IfcFan,NOTDEFINED
+Mechanical,Stairwell Pressurization Fan,SPF,IfcFan,NOTDEFINED
+BMS,Fault,FLT,IfcFilter,NOTDEFINED
+Electrical,Power Conditioning Units,PCU,IfcFilter,AIRPARTICLEFILTER
+Mechanical,Degasser,DGA,IfcFilter,NOTDEFINED
+Plumbing / Public Health,Water Softener,WSR,IfcFilter,WATERFILTER
+Fire Safety,Sprinkler Heads,SPH,IfcFireSuppressionTerminal,SPRINKLER
+Fire Safety,Sprinklers,SPH,IfcFireSuppressionTerminal,SPRINKLER
+Metering,Energy Meters,MTR,IfcFlowMeter,NOTDEFINED
+Metering,Loop Field Strength Meters,MTR,IfcFlowMeter,NOTDEFINED
+Metering,Liquefied Petroleum Gas (LPG) Vapour Meters,MTR,IfcFlowMeter,NOTDEFINED
+Metering,Oil Meters,MTR,IfcFlowMeter,NOTDEFINED
+Metering,Orifice Plate Flow Meters,MTR,IfcFlowMeter,NOTDEFINED
+Metering,Piezometers,MTR,IfcFlowMeter,NOTDEFINED
+Metering,Pool Water Flow Meters,MTR,IfcFlowMeter,NOTDEFINED
+Metering,Spring Loaded Variable Area Flow Meters,MTR,IfcFlowMeter,NOTDEFINED
+Metering,Vortex Flow Meters,MTR,IfcFlowMeter,NOTDEFINED
+Architectural,Electronic Key Cabinet,EKC,IfcFurniture,NOTDEFINED
+Fire Alarm,Sprinkler Status Panel,SSP,IfcInterceptor,NOTDEFINED
+Mechanical,Variable Frequency Drive,VFD,IfcMotorConnection,NOTDEFINED
+Mechanical,Inverters,VSD,IfcMotorConnection,NOTDEFINED
+Electrical,Double 20A Duplex Receptacle,DDR,IfcOutlet,POWEROUTLET
+Electrical,Balanced Twisted-Pair Cable Outlets,DXO,IfcOutlet,POWEROUTLET
+Electrical,Cable Outlets,DXO,IfcOutlet,POWEROUTLET
+Electrical,Industrial Socket Outlets,DXO,IfcOutlet,POWEROUTLET
+Electrical,Multi-Gang Power Outlets,DXO,IfcOutlet,POWEROUTLET
+Electrical,Round Pin Socket Outlets,DXO,IfcOutlet,POWEROUTLET
+Electrical,Service Outlets,DXO,IfcOutlet,POWEROUTLET
+Electrical,Shaver Supply Units,DXO,IfcOutlet,POWEROUTLET
+Electrical,Single Voltage Shaver Outlets,DXO,IfcOutlet,POWEROUTLET
+Electrical,Specialist Socket Outlets,DXO,IfcOutlet,POWEROUTLET
+Electrical,Standard Socket Outlets and lampholdersl,DXO,IfcOutlet,POWEROUTLET
+Electrical,Linear Electrical Receptacle,LER,IfcOutlet,NOTDEFINED
+Electrical,Automatic Transfer Switching Equipment  (TSE),ATS,IfcProtectiveDevice,NOTDEFINED
+Fire Alarm,Fireman Override Panel,FOP,IfcPump,NOTDEFINED
+Fire Safety,Fire Hydrant Pump,FHP,IfcPump,NOTDEFINED
+Mechanical,Pressure Booster Pumps,BSP,IfcPump,NOTDEFINED
+Mechanical,Condenser Water Pump,CNP,IfcPump,NOTDEFINED
+Mechanical,High Temperature Condenser Water Pump,CNP,IfcPump,NOTDEFINED
+Mechanical,High Temperature Condenser Water Pump,CNP,IfcPump,NOTDEFINED
+Mechanical,Low Temperature Condenser Water Pump,CNP,IfcPump,NOTDEFINED
+Mechanical,Boiler Hot Water Pump (building loop),HWP,IfcPump,NOTDEFINED
+Mechanical,Heat Exchanger Pump,HXP,IfcPump,NOTDEFINED
+Mechanical,Pump,PMP,IfcPump,NOTDEFINED
+Mechanical,Process Water Pump,PWP,IfcPump,NOTDEFINED
+Mechanical,Recirculation Pump,RCP,IfcPump,NOTDEFINED
+Mechanical,Transfer Pump,TRP,IfcPump,NOTDEFINED
+Mechanical,Vacuum Pump,VCP,IfcPump,NOTDEFINED
+Plumbing / Public Health,Waste Water Pump,WWP,IfcPump,NOTDEFINED
+BMS,CO2 Sensor,CDS,IfcSensor,CO2SENSOR
+BMS,CO Sensor,cos,IfcSensor,COSENSOR
+BMS,Humidity Sensors,HMS,IfcSensor,HUMIDITYSENSOR
+BMS,Air Temperature Sensors,TPS,IfcSensor,TEMPERATURESENSOR
+BMS,Space Air Temperature Sensors,TPS,IfcSensor,TEMPERATURESENSOR
+BMS,Temperature Sensors,TPS,IfcSensor,TEMPERATURESENSOR
+BMS,Low Pressure Switch,LPS,IfcSensor,LIGHTSENSOR
+BMS,People Counting Sensor,PCS,IfcSensor,NOTDEFINED
+Electrical,Direct-On-Line Starters,MTS,IfcSensor,NOT DEFINED
+Electrical,Star Delta Starters,MTS,IfcSensor,NOT DEFINED
+Fire Alarm,Aspirated Smoke Detection,ASD,IfcSensor,SMOKESENSOR
+Mechanical,Unit Heaters,EUH,ifcSpaceHeater,NOTDEFINED
+Mechanical,Gas Fired Unit Heaters,GUH,IfcSpaceHeater,NOTDEFINED
+Mechanical,Cabinet Direct Heaters,HTR,IfcSpaceHeater,NOTDEFINED
+Mechanical,Cabinet Indirect Heaters,HTR,IfcSpaceHeater,NOTDEFINED
+Mechanical,Trench Heating,TRH,ifcSpaceHeater,NOTDEFINED
+Electrical,Automatic  Voltage Regulators,AVR,ifcStackTerminal,NOTDEFINED
+BMS,Steam And Condensate Sensors,scs,IfcSwitchingDevice,SELECTORSWITCH
+Electrical,Changeover Switches,STS,IfcSwitchingDevice,NOTDEFINED
+Fire Alarm,Interface Units,IFU,IfcSwitchingDevice,NOTDEFINED
+Electrical,Transient Overvoltage Surge Suppression Devices,SPT,IfcTank,STORAGE
+Mechanical,Liquid Fuel De-Aerators,DEA,IfcTank,NOTDEFINED
+Mechanical,Pressure Differential De-Aerators,DEA,IfcTank,NOTDEFINED
+Mechanical,Temperature Differential De-Aerators,DEA,IfcTank,NOTDEFINED
+Plumbing / Public Health,Hot Water Cylinder,HWC,IfcTank,STORAGE
+Elevator,Lift Cars,ELV,IfcTransportElement,ELEVATOR
+BMS,A.C. Semiconductor Motor Controllers And Starters,MCC,IfcUnitaryControlElement,NOTDEFINED
+BMS,Remote I/O Panel,RIO,IfcUnitaryControlElement,NOTDEFINED
+Electrical,Distribution  Panel 120/208V,LDP,IfcUnitaryControlElement,CONTROLPANEL
+Lighting,Lighting Control Panel,LCP,IfcUnitaryControlElement,NOTDEFINED
+Security,Workstation,WST,IfcUnitaryControlElement,WEATHERSTATION
+Mechanical,Local Air Conditioning Units,ACU,IfcUnitaryEquipment,AIRCONDITIONINGUNIT
+Mechanical,Room Air Conditioning Units,ACU,IfcUnitaryEquipment,AIRCONDITIONINGUNIT
+Mechanical,Air Handling Units,AHU,IfcUnitaryEquipment,AIRHANDLER
+Mechanical,Fan Coil Units,FCU,IfcUnitaryEquipment,NOTDEFINED
+Mechanical,Make-up Air Handler,MAU,IfcUnitaryEquipment,AIRHANDLER
+Mechanical,Process Filtration Unit,PFU,IfcUnitaryEquipment,NOTDEFINED
+Mechanical,Roof Top Unit,RTU,IfcUnitaryEquipment,ROOFTOPUNIT
+Mechanical,Variable Refrigerant Flow Units,VRF,IfcUnitaryEquipment,SPLITSYSTEM
+BMS,Modulating Control Valve,CVM,IfcValve,NOTDEFINED
+BMS,On/Off Control Valve,cvo,IfcValve,NOTDEFINED
+Electrical,Bodypack Receivers,RCV,IfcValve,NOTDEFINED
+Electrical,Telemetry Receivers,RCV,IfcValve,NOTDEFINED
+Plumbing / Public Health,Automatic Air Vents,AAV,IfcValve,AIRRELEASE
+Plumbing / Public Health,Blowdown Valves,BDV,IfcValve,NOTDEFINED
+Plumbing / Public Health,Backflow Preventer,BFP,IfcValve,NOTDEFINED
+Plumbing / Public Health,Gas Butterfly Valves,BFV,IfcValve,NOTDEFINED
+Plumbing / Public Health,Gas Ball Valves,BLV,IfcValve,COMMISSIONING
+Plumbing / Public Health,Water Ball Valves,BLV,IfcValve,COMMISSIONING
+Plumbing / Public Health,Bypass Valve,BYV,IfcValve,DIVERTING
+Plumbing / Public Health,Check Valve,CKV,IfcValve,CHECK
+Plumbing / Public Health,Flow Control Valve,FCV,IfcValve,NOTDEFINED
+Plumbing / Public Health,Isolation Valve,ISV,IfcValve,ISOLATING
+Plumbing / Public Health,Level Control Valve,LCV,IfcValve,NOTDEFINED
+Plumbing / Public Health,Make Up Water Valve,MUV,IfcValve,NOTDEFINED
+Plumbing / Public Health,Liquefied Petroleum Gas (LPG) Pressure Regulators,PCV,IfcValve,NOTDEFINED
+Plumbing / Public Health,Gas Pressure Reducing Stations,PRV,IfcValve,PRESSUREREDUCING
+Plumbing / Public Health,Pressure Reducing Valves,PRV,IfcValve,PRESSUREREDUCING
+Plumbing / Public Health,Self-Acting Steam Temperature Valves,TCV,IfcValve,NOTDEFINED
+Plumbing / Public Health,Thermostatic Mixing Valves,TCV,IfcValve,NOTDEFINED
+Plumbing / Public Health,Air Admittance Valves,VLV,IfcValve,NOTDEFINED
+Plumbing / Public Health,Anti-Flood Valves,VLV,IfcValve,NOTDEFINED
+Plumbing / Public Health,Deluge Valves,VLV,IfcValve,NOTDEFINED
+Plumbing / Public Health,Dry Riser Landing Valves,VLV,IfcValve,NOTDEFINED
+Plumbing / Public Health,Wet Riser Landing Valves,VLV,IfcValve,NOTDEFINED
+Plumbing / Public Health,Draw Off Taps,VLV,IfcValve,NOTDEFINED
+Plumbing / Public Health,Draining Taps,VLV,IfcValve,NOTDEFINED
+Plumbing / Public Health,Flow-Reducing Servicing Valves,VLV,IfcValve,NOTDEFINED
+Plumbing / Public Health,Three-Way Vent Cocks,VLV,IfcValve,NOTDEFINED
+"
+Blinds","
+Shade and Drape Controller","
+SDC",IfcActuator,ELECTRICACTUATOR
+Architectural,Door,DOR,IfcDoor,DOOR
+Architectural,Exhaust Air Grill,EAG,IfcEvaporator,NOTDEFINED
+AV,Amplifiers,AMP,IfcAirTerminalBox,NOTDEFINED
+AV,Audio Monitor,AMON,IfcSpace,INTERNAL
+AV,AV Encoder,AVE,IfcSpace,INTERNAL
+AV,Diplexers,ADM,IfcUnitaryEquipment,DEHUMIDIFIER
+AV,Equalizers,ADM,IfcElectricAppliance,NOTDEFINED
+AV,Mixers,ADM,IfcFlowMeter,WATERMETER
+AV,Splitters,ADM,ifcAlarm,LIGHT
+AV,Induction-Loop Monitor Receivers,ADE,IfcHumidifier,NOTDEFINED
+AV,Induction Loop Pads,ADE,IfcHumidifier,NOTDEFINED
+AV,Induction Loop Signal Generators,ADE,IfcHumidifier,NOTDEFINED
+AV,Infrared Hearing And Assisted Listening Radiators,ADE,IfcHumidifier,NOTDEFINED
+AV,Modulators,ADE,IfcFlowMeter,WATERMETER
+AV,Portable Communicators,ADE,IfcUnitaryControlElement,NOTDEFINED
+AV,Audio/ Visual Outlets,AVO,IfcSpace,INTERNAL
+AV,Fibre Optic Cable Outlets,AVO,IfcUnitaryEquipment,NOTDEFINED
+AV,Television Outlets,AVO,IfcTank,STORAGE
+AV,AV Switches,AVS,IfcAudioVisualAppliance,NOTDEFINED
+AV,Bluetooth Audio Interface,BAI,IfcBoiler,WATER
+AV,Camera Control Unit,CCU,IfcAudioVisualAppliance,CAMERA
+AV,Ceiling Microphone,"
+CMIC",IfcAudioVisualAppliance,CAMERA
+AV,Ceiling Speaker,CSP,IfcAudioVisualAppliance,CAMERA
+AV,Enclosure Speaker,ESP,IfcElectricAppliance,NOTDEFINED
+AV,Landscape Speaker,LSP,IfcAirTerminalBox,NOTDEFINED
+AV,Digital Signal Processor,DSP,IfcUnitaryEquipment,DEHUMIDIFIER
+AV,Digital Signage/IPTV Decoder,DSID,IfcUnitaryEquipment,DEHUMIDIFIER
+AV,LED LCD Display,LCD,IfcAirTerminalBox,NOTDEFINED
+AV,LED Module,LED,IfcAirTerminalBox,NOTDEFINED
+AV,Linear Array Microphone,LAM,IfcSwitchingDevice,KEYPAD
+AV,Music Controller,MCT,IfcMotorConnection,NOTDEFINED
+AV,PC,AVPC,IfcUnitaryControlElement,NOTDEFINED
+AV,Pendant Speaker,PSP,IfcUnitaryControlElement,NOTDEFINED
+AV,Preview Monitor,PMON,IfcUnitaryEquipment,NOTDEFINED
+AV,Room Booking Panel,RBP,IfcElectricAppliance,REFRIGERATOR
+AV,Steerable Array Speaker,SASP,ifcAlarm,LIGHT
+AV,Table Microphone,TMIC,ifcAlarm,LIGHT
+AV,Thin Client Device,TCD,IfcAirToAirHeatRecovery,ROTARYWHEEL
+AV,Touch Panel,TPAN,IfcElectricTimeControl,TIMECLOCK
+AV,VC Codec,vcc,IfcMotorConnection,NOTDEFINED
+AV,VC Codec Soundbar,vccs,IfcMotorConnection,NOTDEFINED
+AV,VC/Ingest Camera,VCAM,IfcMotorConnection,NOTDEFINED
+AV,Mute Button,MUT,IfcMotorConnection,NOTDEFINED
+AV,Matrix Switcher,MSW,IfcCommunicationsAppliance,NOTDEFINED
+AV,Mixing Desk,MIX,IfcFlowMeter,WATERMETER
+AV,Vision Mixer,VMIX,IfcMotorConnection,NOTDEFINED
+AV,Wireless Microphone,WMIC,IfcWindow,NOTDEFINED
+AV,Wireless Microphone Receiver,WMR,IfcWindow,NOTDEFINED
+AV,Wireless Presentation Device,WPD,IfcWindow,NOTDEFINED
+BMS,Electronic Timers,TMR,IfcFurniture,NOTDEFINED
+BMS,Mechanical Timers,TMR,IfcCommunicationsAppliance,NOTDEFINED
+BMS,Acoustic Sensors,AOS,IfcCommunicationsAppliance,SCANNER
+BMS,Air Quality Sensors,AQS,IfcUnitaryEquipment,SPLITSYSTEM
+BMS,Ambient Noise Level Sensors,ANL,IfcAirTerminalBox,NOTDEFINED
+BMS,Beam Interruption Sensors,BIS,IfcElectricFlowStorageDevice,BATTERY
+BMS,Capacitive Proximity Sensors,CPS,IfcAudioVisualAppliance,CAMERA
+BMS,Combined Daylight And Occupancy Sensors,DOS,IfcAirToAirHeatRecovery,RUNAROUNDCOILLOOP
+BMS,Combined Passive Infrared And Microwave Sensors,IMS,IfcAirToAirHeatRecovery,RUNAROUNDCOILLOOP
+BMS,Combined Passive Infrared And Ultrasonic Sensors,IUS,IfcAirToAirHeatRecovery,RUNAROUNDCOILLOOP
+BMS,Combustion Gas Sensors,CGS,IfcAirToAirHeatRecovery,RUNAROUNDCOILLOOP
+BMS,Daylight Sensors,DLS,IfcCommunicationsAppliance,NOTDEFINED
+BMS,Disinfectant  Sensors,DIS,IfcUnitaryEquipment,DEHUMIDIFIER
+BMS,Dry Rot Sensors,DRS,IfcSanitaryTerminal,SANITARYFOUNTAIN
+BMS,Earth Proving Equipment And Monitors,EPS,IfcUnitaryEquipment,SPLITSYSTEM
+BMS,Electronic Combined Current And Voltage Sensors,CVS,IfcWindow,NOTDEFINED
+BMS,Flow In Duct Sensors,FID,IfcValve,ISOLATING
+BMS,Flow In Pipe Sensors,FIP,IfcValve,ISOLATING
+BMS,Foundation Monitors,FDM,IfcFlowStorageDevice,NOTDEFINED
+BMS,Gas Detection And Alarm Sensors,GDS,IfcFurniture,NOTDEFINED
+BMS,Ground Water Monitors,GWS,IfcInterceptor,GREASE
+BMS,Local Heat Sensors,LHS,IfcSwitchingDevice,KEYPAD
+BMS,Mains Voltage Occupancy Sensors,VOS,IfcCommunicationsAppliance,NOTDEFINED
+BMS,Microwave Sensors,MWS,IfcFlowMeter,WATERMETER
+BMS,Motion Sensors,MNS,IfcFlowMeter,WATERMETER
+BMS,Environmental sensor,ENS,IfcElectricAppliance,NOTDEFINED
+BMS,Passive Infrared Sensors,PIS,IfcUnitaryControlElement,NOTDEFINED
+BMS,Ph Value Sensors,PHS,IfcUnitaryControlElement,NOTDEFINED
+BMS,Point Flame Detectors,PFS,IfcUnitaryControlElement,NOTDEFINED
+BMS,Point Heat Detectors,PHD,IfcUnitaryControlElement,NOTDEFINED
+BMS,Pressure Sensors,PRX,IfcUnitaryControlElement,NOTDEFINED
+BMS,Proximity Sensors,PXS,IfcUnitaryEquipment,NOTDEFINED
+BMS,Relay Race Break Sensors,RRB,IfcElectricAppliance,REFRIGERATOR
+BMS,Remote Leak Sampling Equipment,LSE,IfcElectricAppliance,REFRIGERATOR
+BMS,Residual Current Monitors,RCM,IfcElectricAppliance,REFRIGERATOR
+BMS,Room Sensors,RMS,IfcElectricAppliance,REFRIGERATOR
+BMS,Special Fire Detectors,SFD,ifcAlarm,LIGHT
+BMS,Steam And Condensate Sensor Chambers,sec,ifcAlarm,LIGHT
+BMS,Ultrasonic Sensors,USS,IfcValve,NOTDEFINED
+BMS,Vibration Sensors,VBS,IfcMotorConnection,NOTDEFINED
+BMS,Volumetric Capacitive Sensors,vcs,IfcMotorConnection,NOTDEFINED
+BMS,Water Temperature Sensors,WTS,IfcElectricAppliance,NOTDEFINED
+BMS,Analogue Metering Equipment,AME,IfcAirTerminalBox,NOTDEFINED
+BMS,Digital Metering Equipment,DME,IfcUnitaryEquipment,DEHUMIDIFIER
+BMS,Digital Multifunction Metering Equipment,DMM,IfcUnitaryEquipment,DEHUMIDIFIER
+BMS,Modulating Control Damper,CDM,IfcFlowMeter,WATERMETER
+BMS,Temperature Sensor Immersion Type,TIX,IfcTank,STORAGE
+BMS,Capillary Element Thermostat,TAS,IfcAudioVisualAppliance,CAMERA
+BMS,Carbon Dioxide Sensor,CO2,IfcAudioVisualAppliance,CAMERA
+BMS,Carbon Monoxide Sensor,cox,IfcAudioVisualAppliance,CAMERA
+BMS,Clamp-on Thermostat,TCS,IfcChiller,NOTDEFINED
+BMS,Combined Temperature and CO2 Sensor,TCX,IfcAirToAirHeatRecovery,RUNAROUNDCOILLOOP
+BMS,Combined Temperature and Humidity Sensor,THX,IfcAirToAirHeatRecovery,RUNAROUNDCOILLOOP
+BMS,Contents Indicator (probe type),CIN,IfcCondenser,NOTDEFINED
+BMS,Differential Pressure Sensor,DPX,IfcUnitaryEquipment,DEHUMIDIFIER
+BMS,Differential Pressure Switch,DPS,IfcUnitaryEquipment,DEHUMIDIFIER
+BMS,Duct Mounted Enthalpy Sensor,EDX,IfcSanitaryTerminal,SANITARYFOUNTAIN
+BMS,Duct Mounted Smoke Sensor,SDX,IfcSanitaryTerminal,SANITARYFOUNTAIN
+BMS,Duct Mounting Thermostat,TDS,IfcSanitaryTerminal,SANITARYFOUNTAIN
+BMS,Electricity Consumption  Meter,ECM,IfcSwitchingDevice,SELECTORSWITCH
+BMS,Emergency Stop Button,ESB,IfcFurniture,NOTDEFINED
+BMS,Fire Detection System,FIR,IfcSensor,SMOKESENSOR
+BMS,Fire Running Status (To the Fire System),FRS,IfcSensor,SMOKESENSOR
+BMS,Fireman's Override Switch,FOR,IfcValve,ISOLATING
+BMS,Flow Switch Duct Mounted,FDS,IfcValve,ISOLATING
+BMS,Flow Switch Type Pipe Mounted,FPS,IfcValve,ISOLATING
+BMS,Frost Safety Command,FSC,IfcFlowStorageDevice,NOTDEFINED
+BMS,Gas Consumption  Meter,GCM,IfcFurniture,NOTDEFINED
+BMS,Gas Solenoid Valve,GVS,IfcFurniture,NOTDEFINED
+BMS,High Level Alarm Sounder,HAS,IfcUnitaryEquipment,NOTDEFINED
+BMS,High Pressure Switch,HPS,IfcController,PROGRAMMABLE
+BMS,Humidistat Duct Mounted,HDS,IfcHumidifier,NOTDEFINED
+BMS,Humidity Sensor Duct Mounted,HDX,IfcHumidifier,NOTDEFINED
+BMS,Humidity Sensor Wall Mounted,HWX,IfcHumidifier,NOTDEFINED
+BMS,Hydrostatic Contents Gauge (with capillary tubing and transmitter),HCG,IfcHumidifier,NOTDEFINED
+BMS,Oil Pressure Switch,OPS,IfcInterceptor,OIL
+BMS,Immersion Heater,IMH,IfcHumidifier,NOTDEFINED
+BMS,Immersion Thermostat,TIS,IfcHumidifier,NOTDEFINED
+BMS,Lighting,LIT,IfcAirTerminalBox,NOTDEFINED
+BMS,Low Level Switch,LLS,IfcCommunicationsAppliance,NOTDEFINED
+BMS,Natural Gas Sensor,GSX,ifcStackTerminal,NOTDEFINED
+BMS,Oil Consumption Meter,OCM,ifcStackTerminal,NOTDEFINED
+BMS,Oil Solenoid Valve,ovs,IfcInterceptor,OIL
+BMS,On/Off Control Damper,CDO,IfcInterceptor,OIL
+BMS,On/Off Smoke Damper,SDO,IfcInterceptor,OIL
+BMS,Outside Enthalpy Sensor,EOX,IfcOutlet,NOTDEFINED
+BMS,Outside Humidity Sensor,HOX,IfcOutlet,NOTDEFINED
+BMS,Outside Light Sensor,LOX,IfcOutlet,NOTDEFINED
+BMS,Outside Solar Sensor,SOX,IfcOutlet,NOTDEFINED
+BMS,Outside Temperature Sensor,TOX,IfcOutlet,NOTDEFINED
+BMS,Outside Wind Direction Sensor,WDX,IfcOutlet,NOTDEFINED
+BMS,Outside Wind Velocity Sensor,wsx,IfcOutlet,NOTDEFINED
+BMS,Potentiometer,POT,IfcUnitaryControlElement,NOTDEFINED
+BMS,Precipitation Sensor,PPS,IfcUnitaryControlElement,NOTDEFINED
+BMS,Proximity Switch,PRS,IfcUnitaryEquipment,NOTDEFINED
+BMS,Push-button  Switch,PBS,IfcPump,NOTDEFINED
+BMS,Raise/Lower Control Damper (FCUs only),CDR,IfcSpaceHeater,RADIATOR
+BMS,Raise/Lower  Control Valve (FCUs & VAV only),CVR,IfcSpaceHeater,RADIATOR
+BMS,Refrigerant Gas Sensor,RGX,IfcSpaceHeater,RADIATOR
+BMS,Security Input,SEC,IfcSanitaryTerminal,WASHHANDBASIN
+BMS,Selector Switch,SSW,IfcSanitaryTerminal,WASHHANDBASIN
+BMS,Static Pressure Sensor,SPX,ifcAlarm,LIGHT
+BMS,Temperature  High Limit Thermostat,THL,IfcTank,STORAGE
+BMS,Temperature  Sensor Glass Mounting Type,TGX,IfcTank,STORAGE
+BMS,Temperature  Sensor Stem Type (Duct Mounting),TSX,IfcTank,STORAGE
+BMS,Temperature Sensor Wall Mounting Type,TWX,IfcTank,STORAGE
+BMS,Temperature  Sensor with Averaging Element,TAX,IfcTank,STORAGE
+BMS,Volt Free Contact,VFC,IfcMotorConnection,NOTDEFINED
+BMS,Volume Flow Measuring Station Duct Mounted,QDX,IfcMotorConnection,NOTDEFINED
+BMS,Volume Flow Measuring Station Pipe Mounted,QPX,IfcMotorConnection,NOTDEFINED
+BMS,Wall Mounted Enthalpy Sensor,EWX,IfcMotorConnection,NOTDEFINED
+BMS,Wall Mounting Thermostat,TWS,IfcMotorConnection,NOTDEFINED
+BMS,Water Consumption  Meter,WCM,IfcWasteTerminal,NOTDEFINED
+BMS,Water Energy Meter,WEM,IfcWasteTerminal,NOTDEFINED
+BMS,Water Leakage Sensor,WLX,IfcElectricAppliance,NOTDEFINED
+BMS,Xenon Beacon,XON,IfcWindow,NOTDEFINED
+BMS,Differential Pressure Sensor,DTT,IfcUnitaryEquipment,DEHUMIDIFIER
+BMS,Refrigerant Gas Detection,RGD,IfcSpaceHeater,RADIATOR
+BMS,Supervisor Terminal,SVT,ifcAlarm,LIGHT
+BMS,Smart Screens,sss,ifcAlarm,LIGHT
+BMS,Outstation,OTN,IfcOutlet,NOTDEFINED
+BMS,Head End Terminal,HET,IfcInterceptor,GREASE
+BMS,Datalogger,DLG,IfcCommunicationsAppliance,NOTDEFINED
+BMS,EMS Module,ZMS,IfcElectricAppliance,NOTDEFINED
+BMS,EMS Module - Web Server,zws,IfcElectricAppliance,NOTDEFINED
+BMS,EMS Module - SMTP Server,ZTP,IfcElectricAppliance,NOTDEFINED
+BMS,EMS Module - DNS Server,ZNS,IfcElectricAppliance,NOTDEFINED
+BMS,EMS Module - NIDS,ZID,IfcElectricAppliance,NOTDEFINED
+BMS,EMS Module - Routers,ZRT,IfcElectricAppliance,NOTDEFINED
+BMS,EMS Module - Internet Router with ACLs,ZIR,IfcElectricAppliance,NOTDEFINED
+BMS,EMS Module - VPN Gateway,ZPN,IfcElectricAppliance,NOTDEFINED
+BMS,EMS Module - VPN Concetrator,ZPC,IfcElectricAppliance,NOTDEFINED
+BMS,EMS Module - WAN Router with ACLs,ZAN,IfcElectricAppliance,NOTDEFINED
+BMS,EMS Module - Network Access Server,ZNA,IfcElectricAppliance,NOTDEFINED
+BMS,IT Management Network Modules,ITM,IfcHumidifier,NOTDEFINED
+BMS,IT Management Network Modules - Comms Interface,ITQ,IfcHumidifier,NOTDEFINED
+BMS,IT Management Network Modules - WiFi VoIP,ITW,IfcHumidifier,NOTDEFINED
+BMS,IT Management Network Modules - Workstations,ITS,IfcHumidifier,NOTDEFINED
+BMS,IT Management  Network Modules - Desk Phones,ITD,IfcHumidifier,NOTDEFINED
+BMS,IT Management Network Modules - Access Switches,ITA,IfcHumidifier,NOTDEFINED
+BMS,IP TV Modules,IPM,IfcHumidifier,NOTDEFINED
+BMS,IP TV Modules - Server Switch,IPS,IfcHumidifier,NOTDEFINED
+BMS,IP TV Modules - Content Switch,IPC,IfcHumidifier,NOTDEFINED
+BMS,IP TV Modules - MUX-IP Encoder,IPE,IfcHumidifier,NOTDEFINED
+BMS,IP TV Modules - Wireless LAN Controller,IPW,IfcHumidifier,NOTDEFINED
+BMS,IP TV Modules - Applications Servers,IPA,IfcHumidifier,NOTDEFINED
+BMS,IP TV Modules - File Servers,IPF,IfcHumidifier,NOTDEFINED
+BMS,IP TV Modules - IPTV Content Management,IPG,IfcHumidifier,NOTDEFINED
+BMS,IP TV Modules - IPTV Boardcast Server,IPB,IfcHumidifier,NOTDEFINED
+BMS,IP TV Modules - Network Video Recording and Storage,IPR,IfcHumidifier,NOTDEFINED
+BMS,IP TV Modules - Content Storage,IPX,IfcHumidifier,NOTDEFINED
+BMS,IP TV Modules - Content Distribution Manager,IPZ,IfcHumidifier,NOTDEFINED
+BMS,IP TV Modules - Network Management,IPU,IfcHumidifier,NOTDEFINED
+BMS,IP TV Modules - Management Storage and On-Hold,IPL,IfcHumidifier,NOTDEFINED
+BMS,Building Services Module,BSM,IfcBoiler,WATER
+BMS,Building Services Module - Access Switches,BSA,IfcBoiler,WATER
+BMS,Building Services Module - BMS Monitor Systems,BSX,IfcBoiler,WATER
+BMS,Building Services Module - IP Television / TV On Demand,BSI,IfcBoiler,WATER
+BMS,Building Services Module - Video Wall,BSV,IfcBoiler,WATER
+BMS,Building Services Module - Lift Monitoring,BSL,IfcBoiler,WATER
+BMS,Building Services Module - IP CCTV,BSC,IfcBoiler,WATER
+BMS,Building Services Module - Public Address,BSE,IfcBoiler,WATER
+BMS,Building Services Module - Intruder Alarm,BSJ,IfcBoiler,WATER
+BMS,Building Services Module - Intercom,BSZ,IfcBoiler,WATER
+BMS,Building Services Module - Plasma LCD Screen,BSK,IfcBoiler,WATER
+BMS,Building Services Module - Access Switches,BSA,IfcBoiler,WATER
+BMS,Thermal Meters,TMX,IfcTank,STORAGE
+Electrical,Automatic  Battery Chargers,BRC,IfcSpace,INTERNAL
+Electrical,Battery Charge Points,BRC,IfcElectricFlowStorageDevice,BATTERY
+Electrical,D.C. Central Battery Supply Units,BRC,IfcElectricAppliance,ELECTRICCOOKER
+Electrical,Rechargeable  Dry Cell Battery Chargers,BRC,IfcSpaceHeater,RADIATOR
+Electrical,Alternators,ALT,IfcAirTerminalBox,NOTDEFINED
+Electrical,Governors,GVR,IfcElectricGenerator,ENGINEGENERATOR
+Electrical,Wind Turbines With Horizontal Shaft,WTB,IfcUnitaryControlElement,WEATHERSTATION
+Electrical,Wind Turbines With Vertical Shaft,WTB,IfcUnitaryControlElement,WEATHERSTATION
+Electrical,Standby Power Supply Units,PSU,ifcAlarm,LIGHT
+Electrical,Static Inverter Power Supply Units,PSU,ifcAlarm,LIGHT
+Electrical,Active Electrical Filters,EFT,IfcCommunicationsAppliance,SCANNER
+Electrical,Automatic Power Factor Correction Equipment,PFC,IfcSpace,INTERNAL
+Electrical,Hybrid Electrical Filters,EFT,IfcHumidifier,NOTDEFINED
+Electrical,Passive Electrical Filters,EFT,IfcUnitaryControlElement,NOTDEFINED
+Electrical,Turbine Control Units,TCU,IfcValve,NOTDEFINED
+Electrical,Escalator And Travelator Electric Drives,EVD,IfcElectricAppliance,NOTDEFINED
+Electrical,Inclined Loading Laundry Conveyors,CVY,IfcHumidifier,NOTDEFINED
+Electrical,Shuttle Lifting Laundry Conveyors,CVY,IfcSwitchingDevice,KEYPAD
+Electrical,Food Hoists,CVY,IfcValve,ISOLATING
+Electrical,Pneumatic  Document Conveying Blowers,CVY,IfcUnitaryControlElement,NOTDEFINED
+Electrical,Pneumatic  Document Conveying Carriers,CVY,IfcUnitaryControlElement,NOTDEFINED
+Electrical,Pneumatic Document Conveying Diverters,CVY,IfcUnitaryControlElement,NOTDEFINED
+Electrical,Pneumatic  Document Conveying Stations,CVY,IfcUnitaryControlElement,NOTDEFINED
+Electrical,Industrial Plugs,EOL,IfcHumidifier,NOTDEFINED
+Electrical,Electrical Low Mounted Way-Guidance  Lighting Modules,WFL,IfcSwitchingDevice,SELECTORSWITCH
+Electrical,Electrical Low Mounted Way-Guidance  Lighting Supply Units,WFL,IfcSwitchingDevice,SELECTORSWITCH
+Electrical,Luminaire Changeover Relays,RLY,IfcCommunicationsAppliance,NOTDEFINED
+Electrical,Luminaire Hold-Off Relays,RLY,IfcCommunicationsAppliance,NOTDEFINED
+Electrical,Luminaire Sub-Circuit Relays,RLY,IfcCommunicationsAppliance,NOTDEFINED
+Electrical,Illuminated Indicators,INZ,IfcHumidifier,NOTDEFINED
+Electrical,Indicator Panels,INZ,IfcHumidifier,NOTDEFINED
+Electrical,Induction Loop Reassurance Indicators,INZ,IfcHumidifier,NOTDEFINED
+Electrical,Led Clusters,INZ,IfcAirTerminalBox,NOTDEFINED
+Electrical,Overdoor Indicators,INZ,IfcOutlet,NOTDEFINED
+Electrical,Remote Indicators,INZ,IfcElectricAppliance,REFRIGERATOR
+Electrical,Starting Strobe Lights,INZ,ifcAlarm,LIGHT
+Electrical,Visual Indicators,INZ,IfcMotorConnection,NOTDEFINED
+Electrical,Xenon Beacons,INZ,IfcWindow,NOTDEFINED
+Electrical,Vehicle Control Barrier Traffic Signals,VHX,IfcMotorConnection,NOTDEFINED
+Electrical,Ceiling Light Switches,PWS,IfcAudioVisualAppliance,CAMERA
+Electrical,Ceiling Power Switches,PWS,IfcAudioVisualAppliance,CAMERA
+Electrical,Double Pole Switches,PWS,IfcDoor,NOTDEFINED
+Electrical,Time Switches,PWS,IfcAirToAirHeatRecovery,ROTARYWHEEL
+Electrical,Lighting Distribution Boxes,DBB,IfcSwitchingDevice,KEYPAD
+Electrical,Master Distribution Boxes,DBB,IfcCommunicationsAppliance,NOTDEFINED
+Electrical,Slave Distribution Boxes,DBB,ifcAlarm,LIGHT
+Electrical,High Voltage Circuit Breakers,CBK,IfcController,PROGRAMMABLE
+Electrical,High Voltage Fuses,FZE,IfcController,PROGRAMMABLE
+Electrical,High Voltage Switches,STC,IfcController,PROGRAMMABLE
+Electrical,High Voltage Switch-Fuse Combinations,SFU,IfcController,PROGRAMMABLE
+Electrical,High Voltage Switchgear Tripping Units,SGT,IfcController,PROGRAMMABLE
+Electrical,Ring Main Units,RMU,IfcElectricAppliance,REFRIGERATOR
+Electrical,Feed Units,FDU,IfcUnitaryEquipment,NOTDEFINED
+Electrical,Fire Barrier Units,FBU,IfcFilter,WATERFILTER
+Electrical,Low Voltage Switchgear Tripping Units,SGT,IfcCommunicationsAppliance,NOTDEFINED
+Electrical,Switchgear Mounting Framework,EMH,ifcAlarm,LIGHT
+Electrical,Tap-Off Units,TOU,IfcTank,STORAGE
+Electrical,Automatic Gain Controllers,CRL,IfcSpace,INTERNAL
+Electrical,Local Volume Controllers,CRL,IfcSwitchingDevice,KEYPAD
+Electrical,Call Press Buttons,BTN,IfcBoiler,STEAM
+Electrical,Emergency Stop Buttons,BTN,IfcFurniture,NOTDEFINED
+Electrical,Manual Timing And Scoring Push Buttons,BTN,IfcCommunicationsAppliance,NOTDEFINED
+Electrical,Call Reset Buttons,BTN,IfcBoiler,STEAM
+Electrical,Request-To-Exit Buttons,BTN,IfcElectricAppliance,REFRIGERATOR
+Electrical,Ambient Noise Sensing Controllers,CRL,IfcAirTerminalBox,NOTDEFINED
+Electrical,Control Panels,CPL,IfcCondenser,NOTDEFINED
+Electrical,Controllers,CRL,IfcController,NOTDEFINED
+Electrical,D.C. Battery Charge Controllers,CRL,IfcElectricAppliance,ELECTRICCOOKER
+Electrical,Electrical Automatic Controllers And Delay Devices,CDD,IfcSwitchingDevice,SELECTORSWITCH
+Electrical,Non-Electrical Automatic Controllers And Delay Devices,CDD,ifcStackTerminal,NOTDEFINED
+Electrical,Start Controllers,CRL,ifcAlarm,LIGHT
+Electrical,Level Controllers,CRL,IfcAirTerminalBox,NOTDEFINED
+Electrical,Turbine Controllers,CRL,IfcValve,NOTDEFINED
+Electrical,Assistance Call Reset Units,ASC,IfcSpace,INTERNAL
+Electrical,Assistance Call Pull Cords,ASC,IfcSpace,INTERNAL
+Electrical,Sealed Lead Acid Batteries,BAT,IfcSanitaryTerminal,WASHHANDBASIN
+Electrical,Sealed Nickel Cadmium Batteries,BAT,IfcSanitaryTerminal,WASHHANDBASIN
+Electrical,Valve Regulated (sealed) Lead Acid,BAT,IfcValve,SAFETYCUTOFF(?)
+Electrical,Vented Lead Acid Batteries,BAT,IfcMotorConnection,NOTDEFINED
+Electrical,Busway,BSY,IfcBoiler,STEAM
+Electrical,Cable Tray,CBT,IfcBoiler,STEAM
+Electrical,Unswitched socket outlet,soc,IfcValve,NOTDEFINED
+Electrical,Switched socket outlet,soc,ifcAlarm,LIGHT
+Electrical,Fused connection unit,FDU,IfcFurniture,NOTDEFINED
+Electrical,Cooker connection unit,FDU,IfcController,NOTDEFINED
+Electrical,Controlled Duplex,CDP,IfcCondenser,NOTDEFINED
+Electrical,Ceiling Duplex,CGD,IfcAudioVisualAppliance,CAMERA
+Electrical,Disconnect Fused,DFD,IfcUnitaryEquipment,DEHUMIDIFIER
+Electrical,DC Plant,DPT,IfcCommunicationsAppliance,NOTDEFINED
+Electrical,Disconnect,DST,IfcUnitaryEquipment,DEHUMIDIFIER
+Electrical,Data Wall Outlet,DWO,IfcCommunicationsAppliance,NOTDEFINED
+Electrical,EVC Distribution Panel,EDP,IfcEvaporator,NOTDEFINED
+Electrical,Electrical Vehicle Supply Equipment,EVE,IfcSwitchingDevice,SELECTORSWITCH
+Electrical,Exit Sign,EXS,IfcEvaporator,NOTDEFINED
+Electrical,Raised Access Floor Service Outlets,FDO,IfcSpaceHeater,RADIATOR
+Electrical,Distribution  Panel 277/480V,HDP,IfcElectricAppliance,NOTDEFINED
+Electrical,Branch Circuit Panel Board 277/480V,HPB,IfcBoiler,WATER
+Electrical,High Voltage Switchboard,HSB,IfcController,PROGRAMMABLE
+Electrical,IT Distribution Panel,IDP,IfcHumidifier,NOTDEFINED
+Electrical,Junction Box,JNB,IfcCommunicationsAppliance,ROUTER
+Electrical,Kitchen Panel,KTP,IfcElectricAppliance,ELECTRICCOOKER
+Electrical,Load Bank,LBK,IfcSwitchingDevice,KEYPAD
+Electrical,Branch Circuit Panel Board 120/208V,LPB,IfcBoiler,WATER
+Electrical,Low Voltage Switchboard,LSB,IfcCommunicationsAppliance,NOTDEFINED
+Electrical,Mechanical Board,MBD,IfcCommunicationsAppliance,NOTDEFINED
+Electrical,Main Panel,MNP,IfcCommunicationsAppliance,NOTDEFINED
+Electrical,Panel Board,PLB,IfcUnitaryControlElement,NOTDEFINED
+Electrical,Panel,PNL,IfcOutlet,NOTDEFINED
+Electrical,Raised floor box,RFB,IfcSpaceHeater,RADIATOR
+Electrical,Electrical Isolators,SSD,IfcSwitchingDevice,SELECTORSWITCH
+Electrical,High Voltage Disconnectors,SSD,IfcController,PROGRAMMABLE
+Electrical,High Voltage Switch-Disconnectors,SSD,IfcController,PROGRAMMABLE
+Electrical,"Low Voltage Switches, Disconnectors, Switch-Disconnectors And Fuse Combination Units",SSD,IfcCommunicationsAppliance,NOTDEFINED
+Electrical,Switchgear (12KV typ),SWG,ifcAlarm,LIGHT
+Electrical,Thermal Storage System,TSS,IfcTank,STORAGE
+Electrical,Voltage Transformers,VTR,IfcMotorConnection,NOTDEFINED
+Electrical,Induction Loop Transformers,PSU,IfcHumidifier,NOTDEFINED
+Electrical,Block Type Current Transformers,CTX,IfcBoiler,WATER
+Electrical,Bushing Type Current Transformers,CTX,IfcBoiler,STEAM
+Electrical,Current Transformers,CTX,IfcElectricAppliance,ELECTRICCOOKER
+Electrical,Dry Type Transformers,TXR,IfcSanitaryTerminal,SANITARYFOUNTAIN
+Electrical,Fluid-Filled Transformers,TXR,IfcValve,ISOLATING
+Electrical,Ring Core Type Current Transformers,CTX,IfcElectricAppliance,REFRIGERATOR
+Electrical,UPS Board,UPB,IfcElectricFlowStorageDevice,UPS
+Electrical,UPS Room,UPR,IfcElectricFlowStorageDevice,UPS
+Electrical,Wire Mold (or Wire Way),WMD,IfcWindow,NOTDEFINED
+Electrical,Weather Station,WSN,IfcUnitaryControlElement,WEATHERSTATION
+Electrical,Light Switches,LSW,IfcAirTerminalBox,NOTDEFINED
+Electrical,Emergency Power Off Button,EPO,IfcFurniture,NOTDEFINED
+Electrical,Rising Bar,RBB,IfcElectricAppliance,REFRIGERATOR
+Electrical,Motor Control Centre,MCR,IfcFlowMeter,WATERMETER
+"Electrical
+Electrical","Load Banks
+Photovoltaic Modules","LBK
+PVT",IfcSwitchingDevice,KEYPAD
+Elevator,Personal Lift Controllers,ECT,IfcUnitaryControlElement,NOTDEFINED
+Elevator,Elevator Door Motor,EDM,IfcFurniture,NOTDEFINED
+Elevator,Elevator Inverter,EIN,IfcFurniture,NOTDEFINED
+Elevator,Elevator Traction Machine,ETM,IfcFurniture,NOTDEFINED
+Elevator,Hydraulic Hinged-Lip Dock Levellers,LSN,IfcHumidifier,NOTDEFINED
+Elevator,Hydraulic Telescopic-Lip Dock Levellers,LSN,IfcHumidifier,NOTDEFINED
+Elevator,Mechanical Dock Levellers,LSN,IfcCommunicationsAppliance,NOTDEFINED
+Elevator,Bridging Inclined Stair Lift Platforms,LSN,IfcBoiler,WATER
+Elevator,Inclined Chairlifts,LSN,IfcHumidifier,NOTDEFINED
+Elevator,Inclined Stair Lift Chairs,LSN,IfcHumidifier,NOTDEFINED
+Elevator,Inclined Standard Stair Lifts,LSN,IfcHumidifier,NOTDEFINED
+Elevator,Inclined Standing Platforms,LSN,IfcHumidifier,NOTDEFINED
+Elevator,Inclined Wheelchair Platforms,LSN,IfcHumidifier,NOTDEFINED
+Elevator,Platform Lift Platforms,LSN,IfcUnitaryControlElement,NOTDEFINED
+Elevator,Poolside Hoists,LSN,IfcUnitaryControlElement,NOTDEFINED
+Elevator,Vehicle Hoists,LSN,IfcMotorConnection,NOTDEFINED
+Elevator,Lift Landing Call Stations,LSN,IfcAirTerminalBox,NOTDEFINED
+Fire Alarm,Electronic Sounders,AMS,IfcFurniture,NOTDEFINED
+Fire Alarm,Emergency Alarm Devices,AMS,IfcFurniture,NOTDEFINED
+Fire Alarm,Fire Alarm Sounders,AMS,IfcFilter,WATERFILTER
+Fire Alarm,Visual Alarm Signal Devices,AMS,IfcMotorConnection,NOTDEFINED
+Fire Alarm,Automatic Announcement Equipment,AMS,IfcSpace,INTERNAL
+Fire Alarm,Loudspeakers,AMS,IfcCommunicationsAppliance,NOTDEFINED
+Fire Alarm,Main Fire Panel,MFP,IfcCommunicationsAppliance,NOTDEFINED
+Fire Alarm,Repeater Fire Panel,RFP,IfcElectricAppliance,REFRIGERATOR
+Fire Alarm,Reception Repeater Panel,RRP,IfcSpaceHeater,RADIATOR
+Fire Alarm,Fire Alarm Desk Monitor,FAD,IfcFilter,WATERFILTER
+Fire Alarm,Main Smoke Ventilation Panel,MSV,IfcCommunicationsAppliance,NOTDEFINED
+Fire Alarm,Car Park Smoke Ventilation Panel,CPP,IfcAudioVisualAppliance,CAMERA
+Fire Alarm,Voice Alarm Batteries and Charger,VAB,IfcMotorConnection,NOTDEFINED
+Fire Alarm,Heat Detector,HDD,IfcInterceptor,GREASE
+Fire Alarm,Sounders,SND,ifcAlarm,LIGHT
+Fire Alarm,Call Points,CPX,IfcBoiler,STEAM
+Fire Alarm,Linear Cable Detection Cable,LCDC,IfcSwitchingDevice,KEYPAD
+Fire Alarm,Network Fire Panels,NFP,ifcStackTerminal,NOTDEFINED
+Fire Alarm,PAVA Rack and Interface,PAV,IfcUnitaryControlElement,NOTDEFINED
+Fire Safety,Standing Inclined Stair Lift Platforms,EVC,ifcAlarm,LIGHT
+Fire Safety,Wheelchair Inclined Stair Lift Platforms,EVC,IfcUnitaryControlElement,WEATHERSTATION
+Fire Safety,Fire Alarm Control Panel,FAP,IfcFilter,WATERFILTER
+Fire Safety,Fire Hydrant Pump Room,FHZ,IfcSensor,SMOKESENSOR
+Fire Safety,Fire And Smoke Dampers,FSD,IfcFilter,WATERFILTER
+Fire Safety,Carbon Dioxide Fire Extinguishing Nozzles,FSP,IfcAudioVisualAppliance,CAMERA
+Fire Safety,Foam Sprinklers,FSP,IfcValve,ISOLATING
+Fire Safety,Halocarbons And Inert Gas Fire Extinguishing Nozzles,FSP,IfcInterceptor,GREASE
+Fire Safety,Flexible Pendants,FSP,IfcValve,ISOLATING
+Fire Safety,Headwall Bedhead Units,FSP,IfcInterceptor,GREASE
+Fire Safety,Medical Trunking Bedhead Units,FSP,IfcCommunicationsAppliance,NOTDEFINED
+Fire Safety,Multi-Movement Pendants,FSP,IfcMotorConnection,NOTDEFINED
+Fire Safety,Retractable Pendants,FSP,IfcElectricAppliance,REFRIGERATOR
+Fire Safety,Rigid Pendants,FSP,IfcElectricAppliance,REFRIGERATOR
+Fire Safety,Foam Proportioners,FSP,IfcValve,ISOLATING
+Fire Safety,Fire Hydrant Tank,FTK,IfcSensor,SMOKESENSOR
+Fire Safety,Motorised Fire/Smoke Damper,MFD,IfcMotorConnection,NOTDEFINED
+Fire Safety,Aspirating Smoke Sensors,SDT,IfcSpace,INTERNAL
+Fire Safety,Optical Beam Smoke Detectors,SDT,IfcInterceptor,OIL
+Fire Safety,Point Smoke Detectors,SDT,IfcUnitaryControlElement,NOTDEFINED
+Fire Safety,Smoke Dampers,SKD,ifcAlarm,LIGHT
+Fire Safety,Sprinkler Tank,STK,ifcAlarm,LIGHT
+Fixtures & Fittings,Air Dryer,ADR,IfcUnitaryEquipment,SPLITSYSTEM
+Fixtures & Fittings,Cleanout,CLT,IfcElectricAppliance,NOTDEFINED
+Fixtures & Fittings,Dish Washer,DWR,IfcUnitaryEquipment,DEHUMIDIFIER
+Fixtures & Fittings,Floor Cleanout,FCT,IfcValve,ISOLATING
+Fixtures & Fittings,Floor Drain,FRD,IfcValve,ISOLATING
+Fixtures & Fittings,Floor Sink,FRQ,IfcValve,ISOLATING
+Fixtures & Fittings,Grill,GRL,IfcInterceptor,GREASE
+Fixtures & Fittings,Ice Maker,ICM,IfcHumidifier,NOTDEFINED
+Fixtures & Fittings,Mop Sink,MPS,IfcFlowMeter,WATERMETER
+Fixtures & Fittings,Microwave,MWV,IfcFlowMeter,WATERMETER
+Fixtures & Fittings,Sink or Lavatory,SNK,ifcAlarm,LIGHT
+Fixtures & Fittings,Shower Head,SRH,IfcSwitchingDevice,KEYPAD
+Fixtures & Fittings,Service Sink,svs,IfcUnitaryControlElement,THERMOSTAT
+Fixtures & Fittings,Tap,TAP,IfcTank,STORAGE
+Gas Detection,Gas Detection Panel,GDP,IfcFurniture,NOTDEFINED
+General,Compactors,TSH,IfcCommunicationsAppliance,GATEWAY
+General,Crushers,TSH,IfcElectricAppliance,ELECTRICCOOKER
+General,Incinerators,TSH,IfcHumidifier,NOTDEFINED
+General,Packagers,TSH,IfcOutlet,NOTDEFINED
+General,Geocellular Modular Plastics Storage Units,TSH,IfcElectricGenerator,ENGINEGENERATOR
+IT,Network core switch,NWS,ifcStackTerminal,NOTDEFINED
+IT,Network distribution switch,NWS,ifcStackTerminal,NOTDEFINED
+IT,Network access switch,NWS,ifcStackTerminal,NOTDEFINED
+IT,Patch panel,PAT,IfcUnitaryControlElement,NOTDEFINED
+IT,Equipment cabinet,CAB,IfcElectricAppliance,NOTDEFINED
+IT,Comms outlet,COM,IfcAirToAirHeatRecovery,RUNAROUNDCOILLOOP
+Leak Detection,Cable Leak Sensors,LKD,IfcBoiler,STEAM
+Leak Detection,Pad Leak Sensors,LKD,IfcOutlet,NOTDEFINED
+Leak Detection,Portable Leak Monitors,LKD,IfcUnitaryControlElement,NOTDEFINED
+Leak Detection,Probe Leak Sensors,LKD,IfcUnitaryEquipment,NOTDEFINED
+Leak Detection,Tape Leak Sensors,LKD,IfcTank,STORAGE
+Lighting,Dimmer Switches And Controls,DSW,IfcUnitaryEquipment,DEHUMIDIFIER
+Lighting,Photoelectric  Lighting Controllers,CRZ,IfcUnitaryControlElement,NOTDEFINED
+Lighting,Remote Infrared Lighting Controllers,CRZ,IfcElectricAppliance,REFRIGERATOR
+Lighting,Optical Fibre Emergency Luminaires,ELT,IfcInterceptor,OIL
+Lighting,Self-Contained Emergency Luminaires,ELT,IfcSanitaryTerminal,WASHHANDBASIN
+Lighting,Light Occupancy sensor,LSO,IfcAirTerminalBox,NOTDEFINED
+Lighting,Combined Emergency  Luminaires,LTF,IfcAirToAirHeatRecovery,RUNAROUNDCOILLOOP
+Lighting,Dedicated Slave Emergency Luminaires,LTF,IfcCommunicationsAppliance,NOTDEFINED
+Lighting,Fibre Optic Luminaires,LTF,IfcUnitaryEquipment,NOTDEFINED
+Lighting,Light-Emitting Diode (LED) Luminaires,LTF,IfcAirTerminalBox,NOTDEFINED
+Lighting,Recessed Luminaires,LTF,IfcSpaceHeater,RADIATOR
+Lighting,Semi-Recessed Luminaires,LTF,IfcSanitaryTerminal,WASHHANDBASIN
+Lighting,Suspended Luminaires,LTF,ifcAlarm,LIGHT
+Lighting,Lighting System Head End,LSS,IfcSwitchingDevice,KEYPAD
+Lighting,Lighting System Area Controller,LSC,IfcSwitchingDevice,KEYPAD
+Mechanical,Plate Recuperators,DHT,IfcUnitaryControlElement,NOTDEFINED
+Mechanical,Regenerators,DHT,IfcElectricAppliance,REFRIGERATOR
+Mechanical,Fume Extract Points,FMH,IfcFlowStorageDevice,NOTDEFINED
+Mechanical,Kitchen Canopies,KTH,IfcElectricAppliance,ELECTRICCOOKER
+Mechanical,Kitchen Extractor Hoods,KTH,IfcElectricAppliance,ELECTRICCOOKER
+Mechanical,Vehicle Exhaust Nozzles,VHE,IfcMotorConnection,NOTDEFINED
+Mechanical,Internal Combustion Engines,ENG,IfcHumidifier,NOTDEFINED
+Mechanical,Packaged Combined Heat And Power (CHP) Units,CHZ,IfcOutlet,NOTDEFINED
+Mechanical,Electric Condensate Recovery Units,CRU,IfcElectricAppliance,NOTDEFINED
+Mechanical,Mechanical Condensate Recovery Units,CRU,IfcCommunicationsAppliance,NOTDEFINED
+Mechanical,Vented Mechanical Condensate Recovery Units,CRU,IfcMotorConnection,NOTDEFINED
+Mechanical,Underfloor Heating And Cooling Manifolds,PMF,IfcValve,NOTDEFINED
+Mechanical,Austenitic Stainless Steel Steam And Condensate Separators,CSX,IfcSpace,INTERNAL
+Mechanical,Carbon Steel Steam And Condensate Separators,CSX,IfcAudioVisualAppliance,CAMERA
+Mechanical,Cast Iron Steam And Condensate Separators,CSX,IfcAudioVisualAppliance,CAMERA
+Mechanical,Combined Air And Dirt Separators,DTZ,IfcAirToAirHeatRecovery,RUNAROUNDCOILLOOP
+Mechanical,Dirt Separators,DTZ,IfcUnitaryEquipment,DEHUMIDIFIER
+Mechanical,Oil And Petrol Separators,OLS,ifcStackTerminal,NOTDEFINED
+Mechanical,Spheroidal Graphite (SG) Cast Iron Steam And Condensate Separators,DTZ,ifcAlarm,LIGHT
+Mechanical,Stainless Steel Steam And Condensate Separators,CSX,ifcAlarm,LIGHT
+Mechanical,Water Separators,WSP,IfcElectricAppliance,NOTDEFINED
+Mechanical,Vacuum Breakers,STM,IfcSwitchingDevice,KEYPAD
+Mechanical,Balanced Pressure Steam Traps,SMT,IfcAudioVisualAppliance,NOTDEFINED
+Mechanical,Ball Float Steam Traps,SMT,IfcAudioVisualAppliance,NOTDEFINED
+Mechanical,Bimetallic  Steam Traps,SMT,IfcBoiler,WATER
+Mechanical,Inverted Bucket Steam Traps,SMT,IfcHumidifier,NOTDEFINED
+Mechanical,Thermodynamic Steam Traps,SMT,IfcAirToAirHeatRecovery,ROTARYWHEEL
+Mechanical,Thermostatic Steam Traps,SMT,IfcAirToAirHeatRecovery,ROTARYWHEEL
+Mechanical,Activated Carbon Air Filters,ARF,IfcCommunicationsAppliance,SCANNER
+Mechanical,Air Gas And Vapour Cleaners,ARC,IfcUnitaryEquipment,SPLITSYSTEM
+Mechanical,Air Particle Cleaners,ARC,IfcUnitaryEquipment,SPLITSYSTEM
+Mechanical,Non-Return  Dampers,ADP,ifcStackTerminal,NOTDEFINED
+Mechanical,Pressure Control Flaps,ADP,IfcUnitaryControlElement,NOTDEFINED
+Mechanical,Tape Lines And Drippers,HMD,IfcTank,STORAGE
+Mechanical,Ultrasonic  Mist Makers,HMD,IfcValve,NOTDEFINED
+Mechanical,Climatic Ceiling Panels,RPL,IfcElectricAppliance,NOTDEFINED
+Mechanical,Air Curtains,ACN,IfcUnitaryEquipment,SPLITSYSTEM
+Mechanical,Decorative Fuel Effect Gas Fires,FPL,IfcCommunicationsAppliance,NOTDEFINED
+Mechanical,Electric Heated Towel Rails,BRH,IfcElectricDistributionBoard,DISTRIBUTIONBOARD
+Mechanical,Electric Underfloor Heating,BRH,IfcSwitchingDevice,SELECTORSWITCH
+Mechanical,Fan Convectors,FHR,IfcUnitaryEquipment,NOTDEFINED
+Mechanical,Gas Fires,FPL,IfcFurniture,NOTDEFINED
+Mechanical,Inset Live Fuel Effect Gas Fires,FPL,IfcHumidifier,NOTDEFINED
+Mechanical,Low Temperature Hot Water (LTHW) Heated Towel Rails,BRH,IfcCommunicationsAppliance,NOTDEFINED
+Mechanical,Low Temperature Hot Water (LTHW) Underfloor Heating,BRH,IfcCommunicationsAppliance,NOTDEFINED
+Mechanical,Radiant Luminous Heaters,ODR,IfcTransformer,NOTDEFINED
+Mechanical,Radiant Panels,RPL,IfcTransformer,NOTDEFINED
+Mechanical,Radiant Tube Heaters,ODR,IfcSpaceHeater,RADIATOR
+Mechanical,Radiators,RAD,IfcSpaceHeater,RADIATOR
+Mechanical,Room Heaters,FHR,IfcElectricAppliance,REFRIGERATOR
+Mechanical,Wood-Burning  Stoves,FPL,IfcWindow,NOTDEFINED
+Mechanical,Induction Units,INU,IfcHumidifier,NOTDEFINED
+Mechanical,Pneumatic Heat Actuators,HTA,IfcUnitaryControlElement,NOTDEFINED
+Mechanical,Thermal Links,HTA,IfcTank,STORAGE
+Mechanical,Actuators,ATR,IfcActuator,ELECTRICACTUATOR
+Mechanical,Air Control Damper,ACD,IfcUnitaryEquipment,SPLITSYSTEM
+Mechanical,Centrifugal Air Separators,ASP,IfcAudioVisualAppliance,CAMERA
+Mechanical,Sound Attenuator,ATT,ifcAlarm,LIGHT
+Mechanical,Air Ventilator,AVX,IfcAirTerminalBox,NOTDEFINED
+Mechanical,Boiler Circulation Pump (at boiler),BCP,IfcBoiler,WATER
+Mechanical,Boiler Circulation Pump (at headered-Primary),BCP,IfcBoiler,WATER
+Mechanical,Boiler Circulation Pump (at headered-Secondary),BCP,IfcBoiler,WATER
+Mechanical,Biological Exhaust Fan,BEF,IfcBoiler,WATER
+Mechanical,Glass-Reinforced Plastics (GRP) Break Tanks,BTK,IfcElectricGenerator,ENGINEGENERATOR
+Mechanical,Moulded Plastics Break Tanks,BTK,IfcMotorConnection,NOTDEFINED
+Mechanical,Break Tank & Booster Set,BTB,IfcBoiler,WATER
+Mechanical,Boiler Water Pump,BWP,IfcBoiler,WATER
+Mechanical,Bypass Damper,BYD,IfcBoiler,STEAM
+Mechanical,Critical Cooling Chillers,CCC,IfcElectricAppliance,ELECTRICCOOKER
+Mechanical,Adsorption Chillers,CHL,IfcActuator,ELECTRICACTUATOR
+Mechanical,Air Cooled Liquid Chillers,CHL,IfcUnitaryEquipment,SPLITSYSTEM
+Mechanical,Direct Fired Absorption Liquid Chillers,CHL,IfcUnitaryEquipment,DEHUMIDIFIER
+Mechanical,Hot Water Fired Absorption Liquid Chillers,CHL,IfcAlarm,SIREN
+Mechanical,Steam Fired Absorption Liquid Chillers,CHL,ifcAlarm,LIGHT
+Mechanical,Water Cooled Liquid Chillers,CHL,IfcWasteTerminal,NOTDEFINED
+Mechanical,Chilled Water Pump (building loop),CHP,IfcAudioVisualAppliance,CAMERA
+Mechanical,Chilled Water Pump (dedicated),CHP,IfcAudioVisualAppliance,CAMERA
+Mechanical,Chilled Water Pump (Headered-Primary),CHP,IfcAudioVisualAppliance,CAMERA
+Mechanical,Chilled Water Pump (Headered-Secondary),CHP,IfcAudioVisualAppliance,CAMERA
+Mechanical,High Temperature Chilled Water Pump,CHP,IfcController,PROGRAMMABLE
+Mechanical,Low Temperature Chilled Water Pump,CHP,IfcCommunicationsAppliance,NOTDEFINED
+Mechanical,Chilled Water Cooling Coils,CLC,IfcAudioVisualAppliance,CAMERA
+Mechanical,Refrigerant Cooling Coils,CLC,IfcSpaceHeater,RADIATOR
+Mechanical,Cooling Skid,CLS,IfcElectricAppliance,ELECTRICCOOKER
+Mechanical,Condenser Water Makeup System,CNM,ifcCompressor,NOTDEFINED
+Mechanical,Air Cooled Condensing Units,CNU,IfcUnitaryEquipment,SPLITSYSTEM
+Mechanical,Split Coil Remote Air Cooled Condensing Units,CNU,ifcAlarm,LIGHT
+Mechanical,Chilled Water Plant,CPT,IfcAudioVisualAppliance,CAMERA
+Mechanical,Computer Room AC Unit,CRC,ifcCompressor,NOTDEFINED
+Mechanical,Computer Room Air Handler,CRH,ifcCompressor,NOTDEFINED
+Mechanical,Circulating Pump,CRP,IfcChiller,NOTDEFINED
+Mechanical,Cooling Tower Separator,CTSP,IfcElectricAppliance,ELECTRICCOOKER
+Mechanical,Cooling Tower Filtration,CTL,IfcElectricAppliance,ELECTRICCOOKER
+Mechanical,Cooling Tower Separator Pump,CTP,IfcElectricAppliance,ELECTRICCOOKER
+Mechanical,Closed Circuit Cooling Towers,CTR,IfcElectricAppliance,NOTDEFINED
+Mechanical,Open Circuit Cooling Towers,CTR,IfcInterceptor,OIL
+Mechanical,Dry Cooler Pump,DCP,IfcSanitaryTerminal,SANITARYFOUNTAIN
+Mechanical,Dishwash Room Exhaust Fan,DEF,IfcUnitaryEquipment,DEHUMIDIFIER
+Mechanical,Desiccant Air Driers,DEH,IfcUnitaryEquipment,DEHUMIDIFIER
+Mechanical,Refrigerant Air Driers,DEH,IfcSpaceHeater,RADIATOR
+Mechanical,Desiccant Dehumidifiers,DEH,IfcUnitaryEquipment,DEHUMIDIFIER
+Mechanical,Duct Heater,DHT,IfcSanitaryTerminal,SANITARYFOUNTAIN
+Mechanical,Domestic Hot Water Pump,DHP,IfcElectricAppliance,NOTDEFINED
+Mechanical,Direct Expansion Cooling Unit,DXU,IfcUnitaryEquipment,DEHUMIDIFIER
+Mechanical,Exhaust Air Diffuser,EAD,IfcEvaporator,NOTDEFINED
+Mechanical,Electric Heat Pump,EHP,IfcElectricDistributionBoard,DISTRIBUTIONBOARD
+Mechanical,Air To Air Heat Pumps,EHP,IfcAirTerminalBox,NOTDEFINED
+Mechanical,Air To Water Heat Pumps,EHP,IfcAirTerminalBox,NOTDEFINED
+Mechanical,Ground Source Heat Pumps,EHP,IfcInterceptor,GREASE
+Mechanical,Water To Air Heat Pumps,EHP,IfcElectricAppliance,NOTDEFINED
+Mechanical,Water To Water Heat Pumps,EHP,IfcElectricAppliance,NOTDEFINED
+Mechanical,Exhaust Hose Runner,EHR,IfcEvaporator,NOTDEFINED
+Mechanical,Electric Storage Water Heaters,EWH,IfcSwitchingDevice,SELECTORSWITCH
+Mechanical,Exhaust or Extract Fan,EXN,IfcEvaporator,NOTDEFINED
+Mechanical,General-Purpose Fume Cupboards,FHE,IfcFurniture,NOTDEFINED
+Mechanical,Laminar Flow Cabinets,FHE,IfcAirTerminalBox,NOTDEFINED
+Mechanical,Microbiological Safety Cabinets,FHE,IfcFlowMeter,WATERMETER
+Mechanical,Recirculatory Filtration Fume Cupboards,FHE,IfcSpaceHeater,RADIATOR
+Mechanical,Variable Air Volume Fume Cupboards,FHE,IfcValve,SAFETYCUTOFF(?)
+Mechanical,Fume Capturing Hoods,FHE,IfcFlowStorageDevice,NOTDEFINED
+Mechanical,Fume Enclosing Hoods,FHE,IfcFlowStorageDevice,NOTDEFINED
+Mechanical,Fume Receiving Hoods,FHE,IfcFlowStorageDevice,NOTDEFINED
+Mechanical,Baffle Grease Air Filters,FLX,IfcAudioVisualAppliance,NOTDEFINED
+Mechanical,Bag Air Filters,FLX,IfcAudioVisualAppliance,NOTDEFINED
+Mechanical,Cartridge Grease Air Filters,FLX,IfcAudioVisualAppliance,CAMERA
+Mechanical,Cold Water Mist Grease Air Filters,FLX,IfcAirToAirHeatRecovery,RUNAROUNDCOILLOOP
+Mechanical,Duct-Mounted Modular Electrostatic Air Filters,FLX,IfcDuctSilencer,NOTDEFINED
+Mechanical,Efficient Particulate Arrestor (EPA) Air Filters,FLX,IfcUnitaryEquipment,SPLITSYSTEM
+Mechanical,High Efficiency Particle Arrestor (HEPA) Air Filters,FLX,IfcUnitaryEquipment,NOTDEFINED
+Mechanical,Mesh Air Filters,FLX,IfcCommunicationsAppliance,NOTDEFINED
+Mechanical,Panel Air Filters,FLX,IfcUnitaryControlElement,NOTDEFINED
+Mechanical,Ultra Low Particle Arrestor (ULPA) Air Filters,FLX,IfcValve,NOTDEFINED
+Mechanical,Water Wash Grease Air Filters,FLX,IfcFlowTreatmentDevice,NOTDEFINED
+Mechanical,Oil Filters,FLX,ifcStackTerminal,NOTDEFINED
+Mechanical,Activated Carbon Water Filters,FLX,IfcCommunicationsAppliance,SCANNER
+Mechanical,Active Biological Water Filters,FLX,IfcCommunicationsAppliance,SCANNER
+Mechanical,Basket Water Filters,FLX,IfcAudioVisualAppliance,NOTDEFINED
+Mechanical,Bottle Brush Water Filters,FLX,IfcBoiler,WATER
+Mechanical,Canister Water Filters,FLX,IfcAudioVisualAppliance,CAMERA
+Mechanical,Chlorine Dioxide Biological Water Filters,FLX,IfcChiller,NOTDEFINED
+Mechanical,Coalescing Water Filters,FLX,IfcElectricAppliance,NOTDEFINED
+Mechanical,Diatomaceous Earth Water Filters,FLX,IfcUnitaryEquipment,DEHUMIDIFIER
+Mechanical,Dust Water Filters,FLX,IfcDuctSilencer,NOTDEFINED
+Mechanical,Fast Bed Rapid Sand Water Filters,FLX,IfcUnitaryEquipment,NOTDEFINED
+Mechanical,Floating Tank Water Filters,FLX,IfcValve,ISOLATING
+Mechanical,Glass Water Filters,FLX,IfcElectricGenerator,ENGINEGENERATOR
+Mechanical,Granular Activated Carbon Water Filters,FLX,IfcElectricGenerator,ENGINEGENERATOR
+Mechanical,Gravel Water Filters,FLX,IfcElectricGenerator,ENGINEGENERATOR
+Mechanical,Media Water Filters,FLX,IfcCommunicationsAppliance,NOTDEFINED
+Mechanical,Membrane Water Filters,FLX,IfcCommunicationsAppliance,NOTDEFINED
+Mechanical,Mesh Water Filters,FLX,IfcCommunicationsAppliance,NOTDEFINED
+Mechanical,Pilot Water Filters,FLX,IfcUnitaryControlElement,NOTDEFINED
+Mechanical,Rapid Gravity Water Filters,FLX,IfcSpaceHeater,RADIATOR
+Mechanical,Reed Bed Water Filters,FLX,IfcSpaceHeater,RADIATOR
+Mechanical,Sand Water Filters,FLX,IfcInterceptor,NOTDEFINED
+Mechanical,Slow Bed Sand Water Filters,FLX,ifcAlarm,LIGHT
+Mechanical,Subsurface Vortex Water Filters,FLX,ifcAlarm,LIGHT
+Mechanical,Fuel Oil System,FOS,IfcFlowStorageDevice,NOTDEFINED
+Mechanical,Frost Coil,PRC,IfcFlowStorageDevice,NOTDEFINED
+Mechanical,Fire Dampers,FRX,IfcFilter,WATERFILTER
+Mechanical,Furnace,FUR,IfcFlowStorageDevice,NOTDEFINED
+Mechanical,General Exhaust Fan,GEF,IfcFurniture,NOTDEFINED
+Mechanical,Gas Engine Driven Heat Pumps,GHP,IfcFurniture,NOTDEFINED
+Mechanical,Gas Fired Absorption Heat Pumps,GHP,IfcFurniture,NOTDEFINED
+Mechanical,Gas-Fired Storage Water Heaters,GWH,IfcFurniture,NOTDEFINED
+Mechanical,Heat Exchanger,HEX,IfcHeatExchanger,NOTDEFINED
+Mechanical,Gas Fired Heater Batteries,HGC,IfcFurniture,NOTDEFINED
+Mechanical,Low Temperature Hot Water Heating Coils,HGC,IfcCommunicationsAppliance,NOTDEFINED
+Mechanical,Evaporative Humidifiers,HMD,IfcElectricAppliance,NOTDEFINED
+Mechanical,Steam Humidifiers,HMD,ifcAlarm,LIGHT
+Mechanical,Water Atomizing Humidifiers,HMD,IfcWasteTerminal,NOTDEFINED
+Mechanical,Hoistway Pressurization Fan,HPF,IfcController,PROGRAMMABLE
+Mechanical,Hot Water Plant,HPT,IfcAlarm,SIREN
+Mechanical,Hot Water Recirculation Pump,HRP,IfcAlarm,SIREN
+Mechanical,Evaporative Cooling Units,HYC,IfcElectricAppliance,NOTDEFINED
+Mechanical,Inlet Damper,IND,IfcHumidifier,NOTDEFINED
+Mechanical,Shut Off Dampers,ISD,IfcSwitchingDevice,KEYPAD
+Mechanical,Manual Damper,MLD,IfcCommunicationsAppliance,NOTDEFINED
+Mechanical,Oil And Water Separators,OSP,ifcStackTerminal,NOTDEFINED
+Mechanical,Potable Water Booster Pump,PBP,IfcUnitaryControlElement,NOTDEFINED
+Mechanical,Packaged Chillerless Cooling Unit,PCC,IfcOutlet,NOTDEFINED
+Mechanical,Auxilliary Process Cooling Water Pump,PCW,IfcSpace,INTERNAL
+Mechanical,Packaged Plate Heat Exchangers,PHE,IfcOutlet,NOTDEFINED
+Mechanical,Plate Heat Exchangers,PHE,IfcUnitaryControlElement,NOTDEFINED
+Mechanical,Packaged Pump Set,PPX,IfcOutlet,NOTDEFINED
+Mechanical,Purge Damper,PRD,IfcPump,NOTDEFINED
+Mechanical,Primary Pump,PRP,IfcUnitaryEquipment,NOTDEFINED
+Mechanical,Pressurization Units,PRU,IfcUnitaryEquipment,NOTDEFINED
+Mechanical,Pump Station,PSN,IfcPump,NOTDEFINED
+Mechanical,Potable Water Transfer Pump,PTP,IfcUnitaryControlElement,NOTDEFINED
+Mechanical,Return Air Diffuser,RDD,IfcElectricAppliance,REFRIGERATOR
+Mechanical,Return Air Grill,RAG,IfcElectricAppliance,REFRIGERATOR
+Mechanical,Pressure Relief Dampers,RFD,IfcUnitaryControlElement,NOTDEFINED
+Mechanical,Return Damper,RND,IfcElectricAppliance,REFRIGERATOR
+Mechanical,Return Fan,RNF,IfcElectricAppliance,REFRIGERATOR
+Mechanical,Reverse Rinsing Filter,RRF,IfcElectricAppliance,REFRIGERATOR
+Mechanical,Radon Exhaust Fan,RXF,IfcSpaceHeater,RADIATOR
+Mechanical,Supply Air Diffuser,SAD,ifcAlarm,LIGHT
+Mechanical,Supply Air Grill,SAG,ifcAlarm,LIGHT
+Mechanical,Secondary Pump,SCP,IfcSanitaryTerminal,WASHHANDBASIN
+Mechanical,Service Water Distribution Pump,SDP,IfcUnitaryControlElement,THERMOSTAT
+Mechanical,Separator Pump,SRP,IfcUnitaryControlElement,THERMOSTAT
+Mechanical,Side Stream Water Filters,SSF,IfcSwitchingDevice,KEYPAD
+Mechanical,Supply Fan,SYF,ifcAlarm,LIGHT
+Mechanical,Toilet Exhaust Fan,TEP,IfcElectricTimeControl,TIMECLOCK
+Mechanical,Tower Make Up,TMU,IfcElectricTimeControl,TIMECLOCK
+Mechanical,Tea Point Fan,TPF,IfcTank,STORAGE
+Mechanical,Trace Heating,TRC,IfcElectricTimeControl,TIMECLOCK
+Mechanical,Transfer Fan,TRF,IfcElectricTimeControl,TIMECLOCK
+Mechanical,Tower Separator (also Sand Separator),TSP,IfcElectricTimeControl,TIMECLOCK
+Mechanical,Thermal Wheels,TWH,IfcAirToAirHeatRecovery,ROTARYWHEEL
+Mechanical,Water Makeup System,WMP,IfcElectricAppliance,NOTDEFINED
+Mechanical,Water Hammer Arrestor,WHA,IfcWasteTerminal,NOTDEFINED
+Mechanical,CHP Thermal Stores,CTS,IfcChiller,NOTDEFINED
+Mechanical,CHP Pumps,CPN,IfcChiller,NOTDEFINED
+Mechanical,Ventilation Control Panel,VML,IfcMotorConnection,NOTDEFINED
+Mechanical,Smoke Control Panel,SML,ifcAlarm,LIGHT
+Mechanical,Smoke Discharge Louvers,SPR,ifcAlarm,LIGHT
+Mechanical,Pressure Switch,PSW,IfcUnitaryControlElement,NOTDEFINED
+Mechanical,Dry Riser Inlet Enclosure,DRX,IfcSanitaryTerminal,SANITARYFOUNTAIN
+Mechanical,Gas Booster Set,GBB,IfcFurniture,NOTDEFINED
+Mechanical,Gas Booster Set Control Panel,GBC,IfcFurniture,NOTDEFINED
+Mechanical,Gas Safety Panel,GSP,IfcFurniture,NOTDEFINED
+Mechanical,Gas Safety Detector,GSD,IfcFurniture,NOTDEFINED
+Mechanical,Gas Sounder and Beacon,GSB,IfcFurniture,NOTDEFINED
+Mechanical,Diesel Transfer Pump,DTP,IfcUnitaryEquipment,DEHUMIDIFIER
+Mechanical,Diesel Hand Transfer Pump,DHB,IfcUnitaryEquipment,DEHUMIDIFIER
+Mechanical,Fill Point Alarm System,FPT,IfcUnitaryEquipment,NOTDEFINED
+Mechanical,Diesel Gauge,DGG,IfcUnitaryEquipment,DEHUMIDIFIER
+Mechanical,Chilled Water Control Valve,CHV,IfcAudioVisualAppliance,CAMERA
+Mechanical,Hot Water Control Valve,HCV,IfcAlarm,SIREN
+Mechanical,Steam Control Valve,scv,ifcAlarm,LIGHT
+"Mechanical
+Mechanical","Car Park Induction Fans
+Auto Changeover Panel","CPI
+ACT",IfcAudioVisualAppliance,CAMERA
+Metering,Electrical Meter,EMT,IfcSwitchingDevice,SELECTORSWITCH
+Metering,Flow Meter,FMT,IfcValve,ISOLATING
+Metering,Gas Meters,GMT,IfcFurniture,NOTDEFINED
+Metering,Heat Meters,HMT,IfcDistributionSystem,HEATING
+Metering,Waste Water Meter,WWT,IfcWasteTerminal,NOTDEFINED
+Metering,Water Meters,WMT,IfcElectricAppliance,NOTDEFINED
+Plumbing / Public Health,RPZ Valves,RPZ,IfcElectricAppliance,REFRIGERATOR
+Plumbing / Public Health,Direct Insulated Hot Water Combination Units,CMB,IfcUnitaryEquipment,DEHUMIDIFIER
+Plumbing / Public Health,Double Feed Indirect Insulated Hot Water Combination Units,CMB,IfcDoor,NOTDEFINED
+Plumbing / Public Health,Single Feed Indirect Insulated Combination Units,CMB,ifcAlarm,LIGHT
+Plumbing / Public Health,Liquid Fuel Tank Outflow Heaters,OFH,IfcSwitchingDevice,KEYPAD
+Plumbing / Public Health,Liquid Fuel Tank Heaters,TKH,IfcSwitchingDevice,KEYPAD
+Plumbing / Public Health,Anaerobic Digesters,ABD,IfcAirTerminalBox,NOTDEFINED
+Plumbing / Public Health,Chlorine Generators,CHG,IfcChiller,NOTDEFINED
+Plumbing / Public Health,Hydrogen Generators,CHG,IfcHumidifier,NOTDEFINED
+Plumbing / Public Health,Nitrogen Generators,CHG,ifcStackTerminal,NOTDEFINED
+Plumbing / Public Health,Steam Generators,CHG,ifcAlarm,LIGHT
+Plumbing / Public Health,Vacuum Plant,VCL,IfcSwitchingDevice,KEYPAD
+Plumbing / Public Health,Bioaugmentation Devices,WTU,IfcBoiler,WATER
+Plumbing / Public Health,Chemical Disinfection  Devices,WTU,IfcAudioVisualAppliance,CAMERA
+Plumbing / Public Health,Chemical Injectors,WTU,IfcAudioVisualAppliance,CAMERA
+Plumbing / Public Health,Clarifiers,WTU,IfcChiller,NOTDEFINED
+Plumbing / Public Health,Deionisation Units,WTU,IfcUnitaryEquipment,DEHUMIDIFIER
+Plumbing / Public Health,Desalination Units,WTU,IfcUnitaryEquipment,DEHUMIDIFIER
+Plumbing / Public Health,Distillation Units,WTU,IfcElectricAppliance,NOTDEFINED
+Plumbing / Public Health,Drinking Water Nitrate Removal Devices,WTU,IfcSanitaryTerminal,SANITARYFOUNTAIN
+Plumbing / Public Health,Electrodialysis Units,WTU,IfcWindow,NOTDEFINED
+Plumbing / Public Health,Ion Exchange Demineralization Units,WTU,IfcHumidifier,NOTDEFINED
+Plumbing / Public Health,Ion Exchange Softening Units,WTU,IfcHumidifier,NOTDEFINED
+Plumbing / Public Health,Magnetic Water Conditioners,WTU,IfcCommunicationsAppliance,NOTDEFINED
+Plumbing / Public Health,Sterilizers,WTU,ifcAlarm,LIGHT
+Plumbing / Public Health,Surface Skimmers,WTU,ifcAlarm,LIGHT
+Plumbing / Public Health,Water Aerators,WTU,IfcWasteTerminal,NOTDEFINED
+Plumbing / Public Health,Evacuated Tube Solar Collectors,SRZ,IfcElectricAppliance,NOTDEFINED
+Plumbing / Public Health,Solar Heat Stores,SRZ,ifcAlarm,LIGHT
+Plumbing / Public Health,Vortex Flow Drainage Controllers,VTX,IfcMotorConnection,NOTDEFINED
+Plumbing / Public Health,High And Low Pressure Selector Gas Fire Extinguishing Valves,GSV,IfcUnitaryEquipment,NOTDEFINED
+Plumbing / Public Health,Sprinkler System Alarm Valves,AMV,ifcAlarm,LIGHT
+Plumbing / Public Health,Liquefied Petroleum Gas (LPG) Shut Off Valves And Emergency Valves,GSV,IfcSwitchingDevice,KEYPAD
+Plumbing / Public Health,Electronic Water Level Controllers,WLC,IfcFurniture,NOTDEFINED
+Plumbing / Public Health,Flush Controllers,FCL,IfcValve,ISOLATING
+Plumbing / Public Health,Overfill Prevention Devices,WLC,IfcOutlet,NOTDEFINED
+Plumbing / Public Health,Proximity Sensor Flushing Controllers,FCL,IfcUnitaryEquipment,NOTDEFINED
+Plumbing / Public Health,Remote Controllers,FCL,IfcElectricAppliance,REFRIGERATOR
+Plumbing / Public Health,Float Switches,WLC,IfcValve,ISOLATING
+Plumbing / Public Health,Angle Stop Valve,ASV,IfcAirTerminalBox,NOTDEFINED
+Plumbing / Public Health,Balancing Valve,BCV,IfcAudioVisualAppliance,NOTDEFINED
+Plumbing / Public Health,Reduced Pressure Back Flow Preventor,RBF,IfcSpaceHeater,RADIATOR
+Plumbing / Public Health,Biocide Dosing Pots,CHF,IfcBoiler,WATER
+Plumbing / Public Health,Water Treatment Dosing Pots,CHF,IfcFlowTreatmentDevice,NOTDEFINED
+Plumbing / Public Health,Cathodic Protection System,CPR,IfcAudioVisualAppliance,CAMERA
+Plumbing / Public Health,Water Mist Control Valves,CTV,IfcElectricAppliance,NOTDEFINED
+Plumbing / Public Health,Gas Solenoid Valves,CTV,IfcFurniture,NOTDEFINED
+Plumbing / Public Health,Industrial Vacuum Flow Regulating Valves,CTV,IfcHumidifier,NOTDEFINED
+Plumbing / Public Health,Electrically-Actuated Control Steam Valves,CTV,IfcSwitchingDevice,SELECTORSWITCH
+Plumbing / Public Health,Pneumatically-Actuated Control Steam Valves,CTV,IfcUnitaryControlElement,NOTDEFINED
+Plumbing / Public Health,Self-Acting Control Steam Valves,CTV,IfcSanitaryTerminal,WASHHANDBASIN
+Plumbing / Public Health,Diaphragm Valves,CTV,IfcUnitaryEquipment,DEHUMIDIFIER
+Plumbing / Public Health,Double Regulating Valves,CTV,IfcDoor,NOTDEFINED
+Plumbing / Public Health,Flow Measuring  Valves,CTV,IfcValve,ISOLATING
+Plumbing / Public Health,Globe Valves,CTV,IfcElectricGenerator,ENGINEGENERATOR
+Plumbing / Public Health,Plug Valves,CTV,IfcUnitaryControlElement,NOTDEFINED
+Plumbing / Public Health,Pressure Surplussing Valves,CTV,IfcUnitaryControlElement,NOTDEFINED
+Plumbing / Public Health,Dosing Pump,DOP,IfcDoor,NOTDEFINED
+Plumbing / Public Health,Dirt Separator,DTS,IfcUnitaryEquipment,DEHUMIDIFIER
+Plumbing / Public Health,Expansion Tank,ETK,IfcEvaporator,NOTDEFINED
+Plumbing / Public Health,Electro Magnetic Water Conditioner,EWC,IfcSwitchingDevice,SELECTORSWITCH
+Plumbing / Public Health,Expansion  Vessel,EXV,IfcEvaporator,NOTDEFINED
+Plumbing / Public Health,Ball Valve Floats,FLV,IfcAudioVisualAppliance,NOTDEFINED
+Plumbing / Public Health,Float-Operated Valves,FLV,IfcValve,ISOLATING
+Plumbing / Public Health,Float Water Level Controllers,FLV,IfcValve,ISOLATING
+Plumbing / Public Health,Grease Interceptor or Trap,GIR,IfcElectricGenerator,ENGINEGENERATOR
+Plumbing / Public Health,Gate Valves,GTV,IfcFurniture,NOTDEFINED
+Plumbing / Public Health,Manual Air Vents,MAV,IfcCommunicationsAppliance,NOTDEFINED
+Plumbing / Public Health,Mixed Bed System,MBS,IfcFlowMeter,WATERMETER
+Plumbing / Public Health,Mist Eliminator,MTE,IfcFlowMeter,WATERMETER
+Plumbing / Public Health,Potable Water Transfer Tank,PTK,IfcUnitaryControlElement,NOTDEFINED
+Plumbing / Public Health,Potable Water Storage Tank Room,PTR,IfcUnitaryControlElement,NOTDEFINED
+Plumbing / Public Health,Liquefied Petroleum Gas (LPG) Pressure Relief Valves,PXV,IfcSwitchingDevice,KEYPAD
+Plumbing / Public Health,Excess Pressure Valves,PXV,IfcEvaporator,NOTDEFINED
+Plumbing / Public Health,Recirculation Valve,RCZ,IfcSpaceHeater,RADIATOR
+Plumbing / Public Health,Reverse Osmosis Units,ROS,IfcElectricAppliance,REFRIGERATOR
+Plumbing / Public Health,Sump Pump,SMP,ifcAlarm,LIGHT
+Plumbing / Public Health,Safe Change Filter Changing Units,SNR,IfcElectricAppliance,REFRIGERATOR
+Plumbing / Public Health,Oil Strainers,SNR,IfcInterceptor,OIL
+Plumbing / Public Health,Angle Water Strainers,SNR,IfcAirTerminalBox,NOTDEFINED
+Plumbing / Public Health,Basket Water Strainers,SNR,IfcAudioVisualAppliance,NOTDEFINED
+Plumbing / Public Health,Y-Type Water Strainers,SNR,IfcWindow,NOTDEFINED
+Plumbing / Public Health,Anti-Siphon Liquid Fuel Supply Valves,SYV,IfcCommunicationsAppliance,ANTENNA
+Plumbing / Public Health,Remote Acting Fire Safety Liquid Fuel Supply Valves,SYV,IfcElectricAppliance,REFRIGERATOR
+Plumbing / Public Health,Test Points,TPT,IfcTank,STORAGE
+Plumbing / Public Health,Treated Water Release System,TRS,IfcValve,NOTDEFINED
+Plumbing / Public Health,Thermal Storage Tank,TTK,IfcTank,STORAGE
+Plumbing / Public Health,Ultra Violet (UV) Disinfection Devices,uvs,IfcValve,NOTDEFINED
+Plumbing / Public Health,Vacuum System Filter,VSF,IfcSwitchingDevice,KEYPAD
+Plumbing / Public Health,Water Closet,WCL,IfcWasteTerminal,NOTDEFINED
+Plumbing / Public Health,Wall Cleanout,WCT,IfcMotorConnection,NOTDEFINED
+Plumbing / Public Health,Carbon Steel Cisterns,WTK,IfcAudioVisualAppliance,CAMERA
+Plumbing / Public Health,Carbon Steel Tanks,WTK,IfcAudioVisualAppliance,CAMERA
+Plumbing / Public Health,Carbon Steel Water Storage Tanks,WTK,IfcAudioVisualAppliance,CAMERA
+Plumbing / Public Health,Glass-Fibre Reinforced Tanks And Cisterns,WTK,IfcElectricGenerator,ENGINEGENERATOR
+Plumbing / Public Health,Medium-Density Polyethylene (MDPE) Water Storage Tanks,WTK,IfcCommunicationsAppliance,NOTDEFINED
+Plumbing / Public Health,Moulded Plastics Cisterns,WTK,IfcMotorConnection,NOTDEFINED
+Plumbing / Public Health,Polyethylene (PE) Water Storage Tanks,WTK,IfcUnitaryControlElement,NOTDEFINED
+"Plumbing / Public
+Health",Temperature  And Pressure Control Steam Valves,CTV,IfcTank,STORAGE
+Security,Security Equipment  Rack,SER,IfcSanitaryTerminal,WASHHANDBASIN
+Security,Virtual Matrix Server,VMS,IfcMotorConnection,NOTDEFINED
+Security,Access Control Server,ACC,IfcCommunicationsAppliance,SCANNER
+Security,Security Management Server,NSV,IfcSanitaryTerminal,WASHHANDBASIN
+Security,Network Server,NSB,ifcStackTerminal,NOTDEFINED
+Security,Thrid Party Server,TPP,IfcAirToAirHeatRecovery,ROTARYWHEEL
+Security,Image Hub and Gateway,IHG,IfcHumidifier,NOTDEFINED
+Security,Monitor Wall,MWW,IfcFlowMeter,WATERMETER
+Security,IDS Control Panel,IDS,IfcHumidifier,NOTDEFINED
+Security,PIRs,PER,IfcUnitaryControlElement,NOTDEFINED
+Security,Panic Alarm Buttons,PAB,IfcUnitaryControlElement,NOTDEFINED
+Security,Access Controlled Door,ACS,IfcCommunicationsAppliance,SCANNER
+Security,Door Controls,DCT,IfcDoor,NOTDEFINED
+Security,Door Contacts,DCX,IfcDoor,NOTDEFINED
+Security,Video Intercoms,VIC,IfcMotorConnection,NOTDEFINED
+Security,Surveillance Cameras,SCA,ifcAlarm,LIGHT
+Security,Surveillance Cameras And Ancillaries,SCA,ifcAlarm,LIGHT
+Security,Deliberately Operated Intruder Alarm Devices,SEX,IfcUnitaryEquipment,DEHUMIDIFIER
+Security,External Intruder Alarm Sounders,SEX,IfcEvaporator,NOTDEFINED
+Security,Internal Electronic Intruder Alarm Sounders,SEX,IfcHumidifier,NOTDEFINED
+Security,Vibrating Intruder Alarm Pagers,SEX,IfcMotorConnection,NOTDEFINED
+Security,Vibrating Radio Pagers,SEX,IfcMotorConnection,NOTDEFINED
+Security,Surveillance Monitors,SRV,ifcAlarm,LIGHT
+Security,Automatic Door Opening Devices,DRH,IfcSpace,INTERNAL
+Security,Automatic Gate Opening Devices,DRH,IfcSpace,INTERNAL
+Security,Disabled Door Opening Pads,DRH,IfcUnitaryEquipment,DEHUMIDIFIER
+Security,Door And Gate Access Controllers,DRH,IfcDoor,NOTDEFINED
+Security,Door Control Mats,DRH,IfcDoor,NOTDEFINED
+Security,Electromagnetic Door Holders,DRH,IfcWindow,NOTDEFINED
+Security,Electromagnetic Door Hold-Open And Swing-Free Devices,DRH,IfcWindow,NOTDEFINED
+Security,Emergency Door And Gate Stop Devices,DRH,IfcFurniture,NOTDEFINED
+Security,Infra-Red Door And Gate Controllers,DRH,IfcHumidifier,NOTDEFINED
+Security,Manual Door And Gate Opening Devices,DRH,IfcCommunicationsAppliance,NOTDEFINED
+Security,Microwave Door And Gate Controllers,DRH,IfcFlowMeter,WATERMETER
+Security,Photo-Beam Door And Gate Controllers,DRH,IfcUnitaryControlElement,NOTDEFINED
+Security,Automatic Door Release Mechanisms,DRH,IfcSpace,INTERNAL
+Security,Electromechanical Door Locks,DRH,IfcWindow,NOTDEFINED
+Security,Magnetic Locks And Strike Plates,DRH,IfcCommunicationsAppliance,NOTDEFINED
+Security,Shear Locks And Strike Plates,DRH,IfcSwitchingDevice,KEYPAD
+Security,Electric Door Bells,DRH,IfcElectricDistributionBoard,DISTRIBUTIONBOARD
+Security,Biometric Fingerprint Readers,CRD,IfcBoiler,WATER
+Security,Intercom Entrance Panels,ITC,IfcHumidifier,NOTDEFINED
+Security,Magnetic Swipe Card Readers,CRD,IfcCommunicationsAppliance,NOTDEFINED
+Security,Magnetic Swipe Cards,CDX,IfcCommunicationsAppliance,NOTDEFINED
+Security,Multiple Technology  Cards,CDX,IfcMotorConnection,NOTDEFINED
+Security,Proximity Card Readers,CRD,IfcUnitaryEquipment,NOTDEFINED
+Security,Proximity Cards,CDX,IfcUnitaryEquipment,NOTDEFINED
+Security,Smart Card Readers And Writers,CRD,ifcAlarm,LIGHT
+Security,Gunshot Detection Sensor,GDS,IfcInterceptor,GREASE
+Security,Brace Mode  Emergency  Push  Button,BMB,IfcBoiler,WATER
+Sprinkler,Shunt Pumps,SHP,IfcSwitchingDevice,KEYPAD
+Sprinkler,Safety Valve,svv,IfcElectricAppliance,REFRIGERATOR
+Sprinkler,Sprinkler Pump,SPP,ifcAlarm,LIGHT
+Sprinkler,Jockey Pump,JPP,IfcCommunicationsAppliance,ROUTER
+Sprinkler,Alarm Gong,AGG,IfcAirTerminalBox,NOTDEFINED
+Sprinkler,Fire Check Valve,FVV,IfcFilter,WATERFILTER
+Sprinkler,Sprinkler Meter,SMM,ifcAlarm,LIGHT
+Sprinkler,Dry Riser Landing Valves,DRR,IfcSanitaryTerminal,SANITARYFOUNTAIN
+Telecom,Digital Audio Broadcasting (DAB) Antennae,TMT,IfcUnitaryEquipment,DEHUMIDIFIER
+Telecom,Frequency Modulation (FM) Antennae,TMT,IfcFlowStorageDevice,NOTDEFINED
+Telecom,Satellite Dishes,TMT,IfcSanitaryTerminal,WASHHANDBASIN
+Telecom,Ultra-High Frequency (UHF) Antennae,TMT,IfcValve,NOTDEFINED
+Telecom,Call Information Logging Equipment,PHN,IfcBoiler,STEAM
+Telecom,Digital Terminals,PHN,IfcUnitaryEquipment,DEHUMIDIFIER
+Telecom,Extension Ringers,PHN,IfcEvaporator,NOTDEFINED
+Telecom,Telephone Operator Consoles,PHN,IfcTank,STORAGE
